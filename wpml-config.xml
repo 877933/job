@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">directory</custom-type>
+ 		<custom-type translate="1">directory_types</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">directory-category</taxonomy>
+		<taxonomy translate="1">directory-tag</taxonomy>
+	</taxonomies>
+</wpml-config>

@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+/* Sidebar Style End */
+/* all */
+
+.ff2 .box {
+}
+.ff3 .box {
+}
+.ie6 .box {
+}
+.ie7 .box {
+}
+.ie8 .box {
+}
+.ie8 .select-holder:after {
+	background-color: #fff;
+	border-left: 0;
+	bottom: 1px;
+	color: #333;
+	content: "\eaaf";
+	cursor: pointer;
+	font-family: "icomoon";
+	font-size: 20px;
+	height: 48px;
+	line-height: 48px;
+	position: absolute;
+	right: 10px;
+	text-align: center;
+	width: 30px;
+	pointer-events: none;
+	padding-left:10px;
+}
+.ie9 .select-holder:after {
+	background-color: #fff;
+	border-left: 0;
+	bottom: 1px;
+	color: #333;
+	content: "\eaaf";
+	cursor: pointer;
+	font-family: "icomoon";
+	font-size: 20px;
+	height: 48px;
+	line-height: 48px;
+	position: absolute;
+	right: 10px;
+	text-align: center;
+	width: 30px;
+	pointer-events: none;
+	padding-left:10px;
+}
+.ie10 .select-holder:after {
+	background-color: #fff;
+	border-left: 0;
+	bottom: 1px;
+	color: #333;
+	content: "\eaaf";
+	cursor: pointer;
+	font-family: "icomoon";
+	font-size: 20px;
+	height: 48px;
+	line-height: 48px;
+	position: absolute;
+	right: 10px;
+	text-align: center;
+	width: 30px;
+	pointer-events: none;
+	padding-left:10px;
+}
+.opera9 .box {
+}
+.opera10 .box {
+}
+.safari2 .box {
+}
+.safari3 .box {
+}
+.safari4 .box {
+}
+.chrome .morph-button-modal-3 button {
+  width: 98% !important;
+}
+.chrome .cs-address-info select {
+  padding: 15px 20px 15px 16px;
+}
+.chrome .cs-jobs article .cs-text h5 i {
+  padding: 5px;
+}
+.unknown .box {
+}
+/* mac */
+
+.mac.safari3 {
+}
+.mac.safari4 {
+}
+.mac.opera9 {
+}
+.mac.ff2 {
+}
+.mac.ff3 {
+}
+/* platform */
+
+.trident {
+}
+.gecko {
+}
+.webkit {
+}
+.presto {
+}
+

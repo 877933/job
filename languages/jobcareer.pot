@@ -1,0 +1,7081 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JobsLine\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sat Dec 05 2015 20:20:08 GMT+0500 (Pakistan Standard "
+"Time)\n"
+"POT-Revision-Date: Mon Jun 06 2016 17:07:47 GMT+0500 (Pakistan Standard "
+"Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: William The Alard <ollala@chimpgroup.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: ar_AE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:23
+msgid "We Are Sorry, Page Not Found"
+msgstr ""
+
+#: ../404.php:30
+msgid ""
+"Unfortunately the page you were looking for could not be found. It may be "
+"temporarily unavailable, moved or no longer exist. <br> Check the Url you "
+"entered for any mistakes and try again."
+msgstr ""
+
+#: ../404.php:39 ../404.php:43 ../404.php:45 ../frontend/templates/headers/modern.
+#: php:295
+msgid "Enter any keyword"
+msgstr ""
+
+#: ../404.php:56 ../searchform.php:27 ../backend/page-builder/cs_functions.php:
+#: 392 ../backend/shortcodes/cs_functions.php:1472
+msgid "Search"
+msgstr ""
+
+#: ../404.php:84
+msgid "Back To Homepage"
+msgstr ""
+
+#: ../archive.php:220 ../index.php:119 ../templates/blog/blog-grid.php:58 ..
+#: /templates/blog/blog-large.php:49 ../templates/blog/blog-medium.php:65 ..
+#: /templates/blog/blog-modern.php:70
+msgid "comments"
+msgstr ""
+
+#: ../archive.php:222 ../index.php:121 ../templates/blog/blog-grid.php:60 ..
+#: /templates/blog/blog-large.php:51 ../templates/blog/blog-medium.php:67 ..
+#: /templates/blog/blog-modern.php:72
+msgid "comment"
+msgstr ""
+
+#: ../archive.php:230 ../index.php:129 ../single.php:291 ..
+#: /backend/shortcodes/cs_functions.php:479 ../templates/blog/blog-classic.php:47 
+#: ../templates/blog/blog-grid.php:68 ../templates/blog/blog-large.php:61 ..
+#: /templates/blog/blog-medium.php:75
+msgid "Read More"
+msgstr ""
+
+#: ../comments.php:13 ../single.php:160
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:13 ../single.php:160
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:20 ../comments.php:31
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:23 ../comments.php:34
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:52
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: ../comments.php:53
+msgid "You must be  to post a comment."
+msgstr ""
+
+#: ../comments.php:54
+msgid "Logged in as&nbsp;"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Log out"
+msgstr ""
+
+#: ../comments.php:55
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: ../comments.php:61
+msgid "Enter your Name"
+msgstr ""
+
+#: ../comments.php:72
+msgid "Enter your Email"
+msgstr ""
+
+#: ../comments.php:83
+msgid "Enter your Phone"
+msgstr ""
+
+#: ../comments.php:117 ../comments.php:118
+msgid "Leave us a comment"
+msgstr ""
+
+#: ../comments.php:119
+msgid "Cancel reply"
+msgstr ""
+
+#: ../comments.php:121 ../functions.php:1448 ../backend/page-builder/cs_functions.
+#: php:1745 ../classes/widgets/class_mailchimp.php:158
+msgid "Submit"
+msgstr ""
+
+#: ../functions.php:356 ../backend/cs-auto-update.php:264
+msgid "Update Theme"
+msgstr ""
+
+#: ../functions.php:652
+msgid "Close"
+msgstr ""
+
+#: ../functions.php:664
+msgid "This text will be overwritten by jQuery "
+msgstr ""
+
+#: ../functions.php:706 ../backend/theme-config.php:275
+msgid "WP jobhunt"
+msgstr ""
+
+#: ../functions.php:716
+msgid "JobHunt Application Deadline"
+msgstr ""
+
+#: ../functions.php:726
+msgid "JobHunt Indeed Jobs"
+msgstr ""
+
+#: ../functions.php:736
+msgid "JobHunt Notifications"
+msgstr ""
+
+#: ../functions.php:746 ../backend/metaboxes/cs_page_functions.php:42 ..
+#: /backend/theme-options/cs_options.php:264 ../backend/theme-options/cs_options.
+#: php:872
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../functions.php:756 ../backend/theme-config.php:285
+msgid "CS Framework"
+msgstr ""
+
+#: ../functions.php:766
+msgid "Loco translate"
+msgstr ""
+
+#: ../functions.php:775
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../functions.php:780
+msgid "Envato Wordpress Toolkit"
+msgstr ""
+
+#: ../functions.php:809 ../backend/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:267
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:810 ../backend/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:268
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:811 ../backend/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:269
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:812
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:813 ../backend/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:271
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:814 ../backend/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:274
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:815
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:816 ../backend/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:280
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:817 ../backend/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:283
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:818
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:819 ../backend/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:289
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:820
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:821 ../backend/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:295
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:822
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:823 ../backend/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:301
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:824 ../backend/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:303 ../backend/theme-components/cs-
+#: activation-plugins/tgm_plugin_activation.php:2200
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:825
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:1185
+msgid "CS Theme Option"
+msgstr ""
+
+#: ../functions.php:1463
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: ../functions.php:1556 ../backend/shortcodes/cs_functions.php:531
+msgid "Featured"
+msgstr ""
+
+#: ../functions.php:1575
+#, php-format
+msgid "Showing result for %s"
+msgstr ""
+
+#: ../functions.php:1578
+msgid "Suggestions:"
+msgstr ""
+
+#: ../functions.php:1580
+msgid "Make sure all words are spelled correctly"
+msgstr ""
+
+#: ../functions.php:1581
+msgid "Wildcard searches (using the asterisk *) are not supported"
+msgstr ""
+
+#: ../functions.php:1582
+msgid "Try more general keywords, especially if you are attempting a name"
+msgstr ""
+
+#: ../functions.php:1652
+msgid "Read the next artical"
+msgstr ""
+
+#: ../functions.php:1655 ../functions.php:1672
+msgid "by"
+msgstr ""
+
+#: ../functions.php:1669
+msgid "Read the previous artical"
+msgstr ""
+
+#: ../functions.php:1717
+msgid "Previous Project"
+msgstr ""
+
+#: ../functions.php:1723
+msgid "Go Back"
+msgstr ""
+
+#: ../functions.php:1727
+msgid "Next Project"
+msgstr ""
+
+#: ../functions.php:1784
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:1785 ../backend/theme-options/cs_options.php:1221
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:1962
+msgid "Like This"
+msgstr ""
+
+#: ../functions.php:2037
+msgid "Subscribed Successfully"
+msgstr ""
+
+#: ../functions.php:2041
+msgid "please set API key"
+msgstr ""
+
+#: ../functions.php:2161
+msgid "Sorry! We are down for maintenance"
+msgstr ""
+
+#: ../functions.php:2162
+msgid "the best experience with this one."
+msgstr ""
+
+#: ../functions.php:2285
+msgid "WEEKLY NEWSLETTER"
+msgstr ""
+
+#: ../functions.php:2765 ../functions.php:2828
+msgid "Name:"
+msgstr ""
+
+#: ../functions.php:2769 ../functions.php:2832
+msgid "Email:"
+msgstr ""
+
+#: ../functions.php:2777 ../functions.php:2840
+msgid "Message:"
+msgstr ""
+
+#: ../functions.php:2781 ../functions.php:2844
+msgid "IP Address:"
+msgstr ""
+
+#: ../functions.php:2836
+msgid "Mobile Number:"
+msgstr ""
+
+#: ../functions.php:3008 ../functions.php:3010 ../single.php:255
+msgid "Previous"
+msgstr ""
+
+#: ../functions.php:3039 ../functions.php:3041 ../single.php:256 ../backend/page-
+#: builder/cs_functions.php:1409
+msgid "Next"
+msgstr ""
+
+#: ../functions.php:3243 ../functions.php:3284
+msgid "This widget will be displayed on right/left side of the page."
+msgstr ""
+
+#: ../functions.php:3282
+msgid "Footer "
+msgstr ""
+
+#: ../functions.php:3304
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../functions.php:3306
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#: ../functions.php:3339
+msgid "Reply to Comment"
+msgstr ""
+
+#: ../functions.php:3354
+msgid "Reply"
+msgstr ""
+
+#: ../functions.php:3359
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:3374 ../backend/shortcodes/cs_functions.php:359 ..
+#: /backend/theme-options/cs_options_fields.php:2312
+msgid "Edit"
+msgstr ""
+
+#: ../functions.php:3393 ../backend/theme-components/cs-header/cs_functions.php:
+#: 1174
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:3406
+msgid "Current Page"
+msgstr ""
+
+#. Name of the template
+msgid "Blank Page"
+msgstr ""
+
+#: ../search.php:74
+msgid "Featured:"
+msgstr ""
+
+#: ../search.php:113 ../templates/blog/blog_element.php:232
+msgid "Show Pagination"
+msgstr ""
+
+#: ../searchform.php:16
+msgid "Enter your search"
+msgstr ""
+
+#: ../single.php:167
+msgid "Pages:"
+msgstr ""
+
+#: ../single.php:178 ../backend/metaboxes/cs_post.php:250 ../backend/theme-
+#: components/cs-header/cs_functions.php:1138 ../frontend/shortcodes/cs_sitemap.
+#: php:54
+msgid "Tags"
+msgstr ""
+
+#: ../single.php:193
+msgid "Share This"
+msgstr ""
+
+#: ../single.php:215
+msgid "Related Blogs"
+msgstr ""
+
+#: ../single.php:302 ../templates/blog/blog-classic.php:59 ../templates/blog/blog-
+#: grid.php:79 ../templates/blog/blog-large.php:70 ../templates/blog/blog-medium.
+#: php:85 ../templates/blog/blog-modern.php:83
+msgid "No blog post found."
+msgstr ""
+
+#: ../backend/image.php:16
+msgid "What do you mean"
+msgstr ""
+
+#: ../backend/image.php:17
+#, php-format
+msgid "there are %s days until"
+msgstr ""
+
+#: ../backend/image.php:18
+msgid "Christmas?! What am"
+msgstr ""
+
+#: ../backend/image.php:19
+msgid "I supposed to do until"
+msgstr ""
+
+#: ../backend/image.php:20
+msgid "then? WAIT?! I am"
+msgstr ""
+
+#: ../backend/image.php:21
+msgid "not a patient man!"
+msgstr ""
+
+#: ../backend/helpers/notification-helper.php:15
+msgid "No record found"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page.php:14
+msgid "Page Options"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page.php:32 ../backend/metaboxes/cs_post.php:32
+msgid "General Settings"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page.php:33
+msgid "Subheader"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page.php:35
+msgid "Coming Soon"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page.php:44
+msgid "Select Header Style"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page.php:52 ../backend/shortcodes/cs_list.php:117 ..
+#: /backend/theme-options/cs_options.php:265 ../backend/theme-options/cs_options.
+#: php:839
+msgid "Default"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page.php:52
+msgid "Transparent"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page.php:53
+msgid "Select Header style, whether to show it transparent or as default."
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:35
+msgid "Choose Sub-header"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:42
+msgid "Default Subheader"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:42
+msgid "Custom Subheader"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:42 ../backend/page-
+#: builder/cs_functions.php:222 ../backend/shortcodes/cs_functions.php:1232
+msgid "Map"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:42
+msgid "No Subheader"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:43
+msgid ""
+"Choose subheader layout for this specific post. Default subheader get "
+"settings from theme options that you saved for subheader. Custom have custom "
+"fields with full control same like theme options you can manage for only "
+"this post. Revolution Slider enables slider in subheader. Map for show map "
+"in subheader and no subheader for disable subheader for this post."
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:48 ..
+#: /backend/metaboxes/cs_page_functions.php:185 ..
+#: /backend/metaboxes/cs_page_functions.php:191 ..
+#: /backend/metaboxes/cs_page_functions.php:231 ..
+#: /backend/metaboxes/cs_page_functions.php:237 ..
+#: /backend/metaboxes/cs_page_functions.php:267 ..
+#: /backend/metaboxes/cs_page_functions.php:272 ..
+#: /backend/metaboxes/cs_page_functions.php:288 ..
+#: /backend/metaboxes/cs_page_functions.php:293 ..
+#: /backend/metaboxes/cs_page_functions.php:310 ..
+#: /backend/metaboxes/cs_page_functions.php:419 ..
+#: /backend/metaboxes/cs_page_functions.php:438 ..
+#: /backend/metaboxes/cs_page_functions.php:444 ..
+#: /backend/metaboxes/cs_page_functions.php:463 ..
+#: /backend/metaboxes/cs_page_functions.php:549 ../backend/metaboxes/cs_post.php:
+#: 107 ../backend/metaboxes/cs_post.php:114 ../backend/metaboxes/cs_post.php:119 .
+#: ./backend/metaboxes/cs_post.php:132 ../backend/metaboxes/cs_post.php:150 ..
+#: /backend/metaboxes/cs_post.php:157 ../backend/metaboxes/cs_post.php:163 ..
+#: /backend/metaboxes/cs_post.php:176 ../backend/metaboxes/cs_post.php:182 ..
+#: /backend/metaboxes/cs_post.php:198 ../backend/metaboxes/cs_post.php:204 ..
+#: /backend/metaboxes/cs_post.php:221
+msgid "Wrapper"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:55 ..
+#: /backend/shortcodes/cs_call_to_action.php:268 ../backend/shortcodes/cs_heading.
+#: php:237
+msgid "Text Align"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:63
+msgid "left"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:63 ../backend/shortcodes/cs_button.
+#: php:266 ../backend/shortcodes/cs_call_to_action.php:279 ..
+#: /backend/shortcodes/cs_heading.php:249 ../backend/shortcodes/cs_icon_box.php:176
+msgid "Right"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:63 ..
+#: /backend/shortcodes/cs_call_to_action.php:280 ../backend/shortcodes/cs_heading.
+#: php:250 ../backend/shortcodes/cs_icon_box.php:177
+msgid "Center"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:64
+msgid "Text align to left, right and center here."
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:69 ../backend/page-
+#: builder/cs_functions.php:1924 ../backend/page-builder/cs_functions.php:1943 ..
+#: /backend/page-builder/cs_functions.php:2265 ..
+#: /backend/shortcodes/cs_call_to_action.php:111 ../backend/shortcodes/cs_faq.php:
+#: 146 ../backend/shortcodes/cs_functions.php:1830 ..
+#: /backend/shortcodes/cs_functions.php:2398 ../backend/shortcodes/cs_functions.
+#: php:3466 ../backend/shortcodes/cs_functions.php:3670 ..
+#: /backend/shortcodes/cs_icon_box.php:358 ../backend/shortcodes/cs_multi_counter.
+#: php:211 ../backend/shortcodes/cs_newsletter.php:80 ..
+#: /backend/shortcodes/cs_slider.php:182 ../backend/theme-options/cs_options.php:
+#: 538 ../backend/theme-options/cs_options_fields.php:2145 ../backend/theme-
+#: options/cs_options_fields.php:2323 ../backend/theme-options/cs_options_fields.
+#: php:2672 ../backend/theme-options/cs_options_fields.php:2776 ..
+#: /classes/widgets/class-fancy-menu.php:46 ../classes/widgets/class-wp-nav-menu-
+#: widget-chimp.php:142 ../classes/widgets/class_ads_banner.php:39 ..
+#: /classes/widgets/class_facebook.php:51 ../classes/widgets/class_flickr.php:45 .
+#: ./classes/widgets/class_mailchimp.php:44 ..
+#: /classes/widgets/class_opening_hours.php:60 ..
+#: /classes/widgets/class_promotions.php:48 ../classes/widgets/class_recentposts.
+#: php:39 ../classes/widgets/class_twitter_widget.php:36 ..
+#: /frontend/shortcodes/cs_accordion.php:65 ../frontend/shortcodes/cs_faq.php:48
+msgid "Title"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:75
+msgid "Subheader get title from your post title it can be hide with this switch"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:80
+msgid "Sub Heading"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:86
+msgid "Enter here subheading text.  It will display after title"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:91 ../backend/theme-
+#: options/cs_options.php:929
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:102 ../backend/page-
+#: builder/cs_functions.php:874 ../backend/theme-options/cs_options.php:891
+msgid "Padding Top"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:110
+msgid "Set here padding bottom. It affects after title."
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:115 ../backend/page-
+#: builder/cs_functions.php:894 ../backend/theme-options/cs_options.php:900
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:123
+msgid "Set padding bottom here. it affects after title."
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:128 ../backend/page-
+#: builder/cs_functions.php:858 ../backend/shortcodes/cs_button.php:183 ..
+#: /backend/shortcodes/cs_call_to_action.php:163 ..
+#: /backend/shortcodes/cs_flex_column.php:258 ../backend/shortcodes/cs_functions.
+#: php:2560 ../backend/shortcodes/cs_quick_quote.php:170 ../backend/theme-
+#: options/cs_options.php:426 ../backend/theme-options/cs_options.php:938 ..
+#: /backend/theme-options/cs_options.php:1315 ../backend/theme-options/cs_options.
+#: php:1380 ../classes/widgets/class_facebook.php:66
+msgid "Background Color"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:134
+msgid ""
+"Provide a hex color code here (with #) if you want to override the default "
+"or leave it empty for using background image."
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:139 ..
+#: /backend/shortcodes/cs_functions.php:3498 ../backend/shortcodes/cs_quick_quote.
+#: php:154 ../backend/shortcodes/cs_tweets.php:97 ../backend/theme-
+#: options/cs_options.php:945 ../backend/theme-options/cs_options.php:1388
+msgid "Text Color"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:145
+msgid "Provide a hex color code here (with #) for title."
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:198
+msgid "Show Image"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:209 ../backend/page-
+#: builder/cs_functions.php:605 ../backend/page-builder/cs_functions.php:625 ..
+#: /backend/shortcodes/cs_call_to_action.php:184 ..
+#: /backend/shortcodes/cs_flex_column.php:222 ../backend/theme-components/cs-mega-
+#: menu/edit_custom_walker.php:195
+msgid "Background Image"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:212
+msgid ""
+"Choose subheader background image from media gallery or leave it empty for "
+"display default image set by theme options."
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:220
+msgid "Parallax Background Image"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:222 ../backend/theme-
+#: options/cs_options.php:1000
+msgid ""
+"Parallax is an effect where the background content or image in this case, is "
+"moved at a different speed than the foreground content while scrolling can "
+"be enable with this switch."
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:254
+msgid "Select Slider"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:278
+msgid "Custom Map Short Code"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:300 ../backend/theme-
+#: options/cs_options.php:855
+msgid "Header Border Color"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:305
+msgid "Provide a hex color code here (with #) for header border color."
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:328
+msgid "Seo Title"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:334
+#, php-format
+msgid ""
+"Google typically displays the first 50-60 characters of a title tag, or as "
+"many characters as will fit into a 512-pixel display. If you keep your "
+"titles under 55 characters, you can expect at least 95% of your titles to "
+"display properly."
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:339
+msgid "Seo Description"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:345
+msgid ""
+"Meta descriptions can be any length, but search engines generally truncate "
+"snippets longer than 160 characters. It is best to keep meta descriptions "
+"between 150 and 160 characters."
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:350
+msgid "Seo Keywords"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:356
+msgid ""
+"There is no official length requirement but generally you ll see people "
+"mention anywhere from 100 to 255 characters. Just be sure to put in the "
+"words that match your page content and dont worry about anything else. Meta "
+"Keywords doesnt make any improvements in SEO, use Meta Description instead."
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:405
+msgid "Choose Sidebar"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:426 ../backend/page-
+#: builder/cs_functions.php:1135
+msgid "Select Left Sidebar"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:430 ..
+#: /backend/metaboxes/cs_page_functions.php:455 ../backend/page-
+#: builder/cs_functions.php:1156 ../backend/page-builder/cs_functions.php:1192
+msgid "Add New Sidebar"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:430 ..
+#: /backend/metaboxes/cs_page_functions.php:455 ../backend/page-
+#: builder/cs_functions.php:1156 ../backend/page-builder/cs_functions.php:1192
+msgid "Click Here"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:451 ../backend/page-
+#: builder/cs_functions.php:1171
+msgid "Select Right Sidebar"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:506
+msgid "Coming Soon page"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:510
+msgid "On this switch for showing Coming Soon page"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:523
+msgid "Upcoming Page Content"
+msgstr ""
+
+#: ../backend/metaboxes/cs_page_functions.php:523
+msgid ""
+"This Content will print on frontend when employer post a new job as "
+"confirmation content on payment page."
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:10
+msgid "Post Options"
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:33
+msgid "Sub Header Options"
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:34
+msgid "Post Settings"
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:95
+msgid "Thumbnail View demo"
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:102
+msgid ""
+"Choose thumbnail view type for this post. None for no image. Single image "
+"for display featured image on listings and slider for display slides on "
+"thumbnail view."
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:103 ../backend/metaboxes/cs_post.php:145 ..
+#: /backend/page-builder/cs_functions.php:604
+msgid "None"
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:103 ../backend/metaboxes/cs_post.php:145
+msgid "Single Image"
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:103 ../backend/metaboxes/cs_post.php:145 ..
+#: /backend/page-builder/cs_functions.php:202 ../backend/shortcodes/cs_clients.
+#: php:147
+msgid "Slider"
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:125 ../backend/metaboxes/cs_post.php:169
+msgid "Add Gallery Images"
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:137
+msgid "Inside Post Thumbnail View"
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:144
+msgid ""
+"Choose inside thumbnail view type for this post. None for no image. Single "
+"image for display featured image on detail. Slider for display slides on "
+"detail. Audio for make this audio post and video for display video inside "
+"post."
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:145 ../backend/page-builder/cs_functions.php:
+#: 246
+msgid "Audio"
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:145 ../backend/page-builder/cs_functions.php:
+#: 223 ../backend/page-builder/cs_functions.php:607 ..
+#: /backend/shortcodes/cs_functions.php:1292
+msgid "Video"
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:188
+msgid "Audio Url"
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:194
+msgid "Enter audio url for this post or upload new with this browse button."
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:210
+msgid "Thumbnail Video Url"
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:216
+msgid ""
+"Enter Specific Video Url (Youtube, Vimeo and Dailymotion) OR you can select "
+"it from your media library"
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:240
+msgid "Social Sharing"
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:246
+msgid "ON/OFF social sharing for this post."
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:256
+msgid "ON/OFF tags from frontend for this post."
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:261
+msgid "Related Post"
+msgstr ""
+
+#: ../backend/metaboxes/cs_post.php:267
+msgid "Enable/Disable related post on detail page."
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:129
+msgid "Typography"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:129
+msgid "Common Elements"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:129
+msgid "Media Element"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:129
+msgid "Content Blocks"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:129
+msgid "Loops"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:201
+msgid "gallery"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:203 ..
+#: /backend/shortcodes/cs_functions.php:1148
+msgid "Blog"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:204 ..
+#: /backend/shortcodes/cs_functions.php:1886
+msgid "Register"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:205 ../backend/page-
+#: builder/cs_functions.php:206
+msgid "CV Package"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:207 ../backend/page-
+#: builder/cs_functions.php:208
+msgid "Job Package"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:209 ../backend/page-
+#: builder/cs_functions.php:210
+msgid "Jobs Search"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:211 ../backend/page-
+#: builder/cs_functions.php:212
+msgid "Flex Editor"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:213 ../backend/page-
+#: builder/cs_functions.php:214 ../backend/page-builder/cs_functions.php:215 ..
+#: /backend/shortcodes/cs_functions.php:1196 ../backend/shortcodes/cs_icon_box.
+#: php:193 ../backend/shortcodes/cs_price_table.php:113 ..
+#: /backend/shortcodes/cs_team.php:96
+msgid "Column"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:216
+msgid "Accordions"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:217
+msgid "Contact"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:218 ..
+#: /backend/shortcodes/cs_functions.php:1190
+msgid "Divider"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:219
+msgid "Message Box"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:220 ../backend/page-
+#: builder/cs_functions.php:2313 ../backend/shortcodes/cs_functions.php:2113 ..
+#: /backend/shortcodes/cs_functions.php:2520 ../backend/shortcodes/cs_functions.
+#: php:2543 ../backend/shortcodes/cs_functions.php:3121 ..
+#: /backend/shortcodes/cs_functions.php:3516 ../backend/shortcodes/cs_functions.
+#: php:3637 ../backend/shortcodes/cs_icon_box.php:531 ..
+#: /backend/shortcodes/cs_icon_box.php:544 ../backend/shortcodes/cs_slider.php:
+#: 146 ../backend/shortcodes/cs_slider.php:163 ..
+#: /backend/shortcodes/cs_testimonial.php:288 ../backend/theme-
+#: options/cs_options_fields.php:2514 ../backend/theme-options/cs_options_fields.
+#: php:2526 ../backend/theme-options/cs_options_fields.php:2674 ../backend/theme-
+#: options/cs_options_fields.php:2824 ../backend/theme-options/cs_options_fields.
+#: php:2836 ../classes/widgets/class_promotions.php:66
+msgid "Image"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:221 ..
+#: /backend/shortcodes/cs_functions.php:1220
+msgid "Image Frame"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:224 ..
+#: /backend/shortcodes/cs_functions.php:1256
+msgid "Quote"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:225
+msgid "Quotes"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:226
+msgid "Drop cap"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:227 ../backend/page-
+#: builder/cs_functions.php:271 ../backend/shortcodes/cs_functions.php:1274 ..
+#: /backend/shortcodes/cs_functions.php:2143 ../backend/shortcodes/cs_price_table.
+#: php:172
+msgid "Price Table"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:228 ..
+#: /backend/shortcodes/cs_functions.php:1262
+msgid "Tabs"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:229
+msgid "Sitemap"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:230 ..
+#: /backend/shortcodes/cs_accordion.php:126 ../backend/shortcodes/cs_functions.
+#: php:1142 ../backend/shortcodes/cs_functions.php:1705
+msgid "Accordion"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:231 ../backend/page-
+#: builder/cs_functions.php:232
+msgid "Prayer"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:233 ..
+#: /backend/shortcodes/cs_functions.php:1286
+msgid "Table"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:234 ../backend/page-
+#: builder/cs_functions.php:237 ../backend/shortcodes/cs_functions.php:1160
+msgid "Call to Action"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:235 ..
+#: /backend/shortcodes/cs_functions.php:311
+msgid "About"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:236
+msgid "about"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:238 ../backend/shortcodes/cs_clients.
+#: php:228 ../backend/shortcodes/cs_functions.php:1166
+msgid "Clients"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:239 ..
+#: /backend/shortcodes/cs_functions.php:1172 ../backend/shortcodes/cs_functions.
+#: php:2980 ../backend/shortcodes/cs_gallery.php:145
+msgid "Gallery"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:240 ..
+#: /backend/shortcodes/cs_functions.php:1202
+msgid "Heading"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:241 ..
+#: /backend/shortcodes/cs_functions.php:1268
+msgid "Testimonials"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:242 ..
+#: /backend/shortcodes/cs_functions.php:1214
+msgid "Info box"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:243 ..
+#: /backend/shortcodes/cs_functions.php:1312
+msgid "Spacer"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:244
+msgid "Promo Box"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:245
+msgid "Offer Slider"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:247
+msgid "Icons"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:248 ..
+#: /backend/shortcodes/cs_functions.php:1178
+msgid "Contact Form"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:249 ../backend/theme-components/cs-
+#: mega-menu/edit_custom_walker.php:190
+msgid "Tooltip"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:250 ../backend/page-
+#: builder/cs_functions.php:251 ../backend/page-builder/cs_functions.php:261 ..
+#: /backend/shortcodes/cs_functions.php:3067 ../backend/shortcodes/cs_icon_box.
+#: php:353
+msgid "Icon Box"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:252 ../backend/page-
+#: builder/cs_functions.php:253 ../backend/shortcodes/cs_shortcodes_config.php:73 
+#: ../frontend/config.php:72
+msgid "Teams"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:254
+msgid "Highlight"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:255 ..
+#: /backend/shortcodes/cs_functions.php:1226
+msgid "List"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:256 ..
+#: /frontend/shortcodes/cs_contactus.php:151 ../frontend/shortcodes/cs_contactus.
+#: php:158
+msgid "Message"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:257 ..
+#: /backend/shortcodes/cs_shortcodes_config.php:71 ../frontend/config.php:70
+msgid "Faq"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:258 ..
+#: /backend/shortcodes/cs_functions.php:3559 ..
+#: /backend/shortcodes/cs_shortcodes_config.php:77 ../frontend/config.php:76
+msgid "Progress bars"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:259 ../backend/page-
+#: builder/cs_functions.php:268 ../backend/page-builder/cs_functions.php:269 ..
+#: /backend/shortcodes/cs_functions.php:2368 ../backend/shortcodes/cs_functions.
+#: php:2468
+msgid "Counter"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:260
+msgid "Members"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:262 ..
+#: /backend/shortcodes/cs_functions.php:1208
+msgid "Newsletter"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:263 ..
+#: /backend/shortcodes/cs_functions.php:3461
+msgid "Facilities"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:264 ..
+#: /backend/shortcodes/cs_functions.php:1306
+msgid "Tweets"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:265 ..
+#: /backend/shortcodes/cs_functions.php:1154
+msgid "Button"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:266 ../backend/page-
+#: builder/cs_functions.php:267 ../backend/shortcodes/cs_functions.php:1244 ..
+#: /backend/shortcodes/cs_functions.php:3301 ../backend/shortcodes/cs_team.php:172
+msgid "Team"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:270
+msgid "Portfolio"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:272
+msgid "Candidate"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:273
+msgid "Employer"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:274
+msgid "Jobs"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:275 ../backend/page-
+#: builder/cs_functions.php:276
+msgid "Job Specialisms"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:374 ../backend/page-
+#: builder/cs_functions.php:429 ../backend/shortcodes/cs_functions.php:1455
+msgid "Add Element"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:400 ..
+#: /backend/shortcodes/cs_functions.php:1480
+msgid "Filter by"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:402 ..
+#: /backend/shortcodes/cs_functions.php:1482
+msgid "Show all"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:424 ..
+#: /backend/shortcodes/cs_functions.php:1508
+msgid "CS: Insert shortcode"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:514
+msgid "Quick Quote"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:519
+msgid "Options"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:587
+msgid "Edit Page Section"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:593
+msgid "Background View"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:595
+msgid "Choose Background View."
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:606 ../backend/page-
+#: builder/cs_functions.php:708
+msgid "Custom Slider"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:643
+msgid "Background Image Position"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:645
+msgid "Choose Background Image Position"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:654
+msgid "no-repeat center top"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:655
+msgid "repeat center top"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:656
+msgid "no-repeat center"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:657
+msgid "no-repeat center / cover"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:658
+msgid "repeat center"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:659
+msgid "no-repeat left top"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:660
+msgid "repeat left top"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:661
+msgid "no-repeat fixed center"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:662
+msgid "no-repeat fixed center / cover"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:671
+msgid "Background Image Repetition"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:673
+msgid "Choose Background Image Repetition"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:682
+msgid "Repeat"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:683
+msgid "No Repeat"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:710
+msgid "Enter Custom Slider."
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:733 ../backend/shortcodes/cs_video.
+#: php:91
+msgid "Video Url"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:753 ../backend/page-
+#: builder/cs_functions.php:2343 ../backend/theme-components/cs-mega-
+#: menu/edit_custom_walker.php:197 ../backend/theme-options/cs_options_fields.php:
+#: 2063 ../backend/theme-options/cs_options_fields.php:2545 ../backend/theme-
+#: options/cs_options_fields.php:2854 ../classes/class_meta_fields.php:1143 ..
+#: /classes/cs_form_fields.php:1030 ../classes/cs_form_fields.php:1111 ..
+#: /classes/cs_form_fields.php:1176
+msgid "Browse"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:766
+msgid "Please enter Vimeo/Youtube Video Url"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:772
+msgid "Enable Mute"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:774
+msgid "Choose Mute selection"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:783 ../backend/page-
+#: builder/cs_functions.php:804 ../backend/page-builder/cs_functions.php:828 ..
+#: /backend/shortcodes/cs_accordion.php:141 ../backend/shortcodes/cs_button.php:
+#: 129 ../backend/shortcodes/cs_clients.php:121 ../backend/shortcodes/cs_clients.
+#: php:190 ../backend/shortcodes/cs_faq.php:136 ..
+#: /backend/shortcodes/cs_functions.php:1720 ../backend/shortcodes/cs_functions.
+#: php:1819 ../backend/shortcodes/cs_functions.php:1974 ..
+#: /backend/shortcodes/cs_functions.php:2296 ../backend/shortcodes/cs_map.php:391 
+#: ../backend/shortcodes/cs_price_table.php:344 ../backend/shortcodes/cs_tabs.php:
+#: 151 ../backend/shortcodes/cs_testimonial.php:202 ..
+#: /templates/blog/blog_element.php:180
+msgid "Yes"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:784 ../backend/page-
+#: builder/cs_functions.php:805 ../backend/page-builder/cs_functions.php:829 ..
+#: /backend/shortcodes/cs_accordion.php:142 ../backend/shortcodes/cs_button.php:
+#: 130 ../backend/shortcodes/cs_clients.php:120 ../backend/shortcodes/cs_clients.
+#: php:189 ../backend/shortcodes/cs_faq.php:137 ..
+#: /backend/shortcodes/cs_functions.php:1721 ../backend/shortcodes/cs_functions.
+#: php:1820 ../backend/shortcodes/cs_functions.php:1973 ..
+#: /backend/shortcodes/cs_functions.php:2297 ../backend/shortcodes/cs_map.php:392 
+#: ../backend/shortcodes/cs_price_table.php:345 ../backend/shortcodes/cs_tabs.php:
+#: 150 ../backend/shortcodes/cs_testimonial.php:203 ..
+#: /templates/blog/blog_element.php:181
+msgid "No"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:793
+msgid "Video Auto Play"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:795
+msgid "Choose Video Auto Play selection"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:817
+msgid "Enable Parallax"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:838
+msgid "Select View"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:849 ../backend/shortcodes/cs_icon_box.
+#: php:154
+msgid "Box"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:850 ../backend/theme-
+#: options/cs_options.php:621
+msgid "Wide"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:860
+msgid "Choose background color."
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:876
+msgid "Set the Padding top (In px)"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:896
+msgid "Set the Padding Bottom (In px)"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:914 ../backend/shortcodes/cs_divider.
+#: php:81
+msgid "Margin Top"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:916
+msgid "Set the Margin Top (In px)"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:934 ../backend/shortcodes/cs_divider.
+#: php:111
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:936
+msgid "Set the Margin Bottom (In px)"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:954
+msgid "Border Top"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:956
+msgid "Set the Border top (In px)"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:974
+msgid "Border Bottom"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:976
+msgid "Set the Border Bottom (In px)"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:994 ../backend/shortcodes/cs_button.
+#: php:150 ../backend/shortcodes/cs_map.php:402
+msgid "Border Color"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:996
+msgid "Choose Border color."
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1010 ..
+#: /backend/shortcodes/cs_functions.php:1582 ../backend/shortcodes/cs_functions.
+#: php:1637 ../backend/shortcodes/cs_functions.php:2689
+msgid "Custom Id"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1012
+msgid "Enter Custom Id."
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1029
+msgid "Select Layout"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1203 ../backend/shortcodes/cs_about.
+#: php:229 ../backend/shortcodes/cs_accordion.php:268 ..
+#: /backend/shortcodes/cs_button.php:354 ../backend/shortcodes/cs_call_to_action.
+#: php:317 ../backend/shortcodes/cs_clients.php:333 ..
+#: /backend/shortcodes/cs_contactus.php:185 ../backend/shortcodes/cs_divider.php:
+#: 170 ../backend/shortcodes/cs_faq.php:251 ../backend/shortcodes/cs_flex_column.
+#: php:307 ../backend/shortcodes/cs_functions.php:1070 ..
+#: /backend/shortcodes/cs_functions.php:1087 ../backend/shortcodes/cs_functions.
+#: php:1104 ../backend/shortcodes/cs_functions.php:1121 ..
+#: /backend/shortcodes/cs_gallery.php:286 ../backend/shortcodes/cs_heading.php:
+#: 345 ../backend/shortcodes/cs_icon_box.php:730 ..
+#: /backend/shortcodes/cs_image_frame.php:196 ../backend/shortcodes/cs_infobox.
+#: php:290 ../backend/shortcodes/cs_list.php:296 ../backend/shortcodes/cs_map.php:
+#: 446 ../backend/shortcodes/cs_multi_counter.php:333 ..
+#: /backend/shortcodes/cs_newsletter.php:147 ../backend/shortcodes/cs_price_table.
+#: php:462 ../backend/shortcodes/cs_progressbar.php:238 ..
+#: /backend/shortcodes/cs_quick_quote.php:215 ../backend/shortcodes/cs_quotes.php:
+#: 177 ../backend/shortcodes/cs_revolution_slider.php:153 ..
+#: /backend/shortcodes/cs_sitemap.php:110 ../backend/shortcodes/cs_slider.php:306 
+#: ../backend/shortcodes/cs_spacer.php:108 ../backend/shortcodes/cs_table.php:163 
+#: ../backend/shortcodes/cs_tabs.php:282 ../backend/shortcodes/cs_team.php:363 ..
+#: /backend/shortcodes/cs_testimonial.php:370 ../backend/shortcodes/cs_tweets.php:
+#: 158 ../backend/shortcodes/cs_video.php:173 ../templates/blog/blog_element.php:
+#: 281
+msgid "Save"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1399
+msgid "Prev"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1460 ../backend/page-
+#: builder/cs_functions.php:1640
+msgid "Edit Options"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1467 ../backend/page-
+#: builder/cs_functions.php:1646 ../backend/page-builder/cs_functions.php:1688 ..
+#: /backend/shortcodes/cs_image_frame.php:104
+msgid "Image Title"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1469 ../backend/page-
+#: builder/cs_functions.php:1648
+msgid "Add Image Title"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1482 ..
+#: /backend/shortcodes/cs_image_frame.php:145
+msgid "Image Description"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1484
+msgid "Add Image Description"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1497 ../backend/page-
+#: builder/cs_functions.php:1674 ../backend/shortcodes/cs_functions.php:2624 ..
+#: /backend/shortcodes/cs_functions.php:3700
+msgid "Link"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1499
+msgid "Add Image Link"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1512
+msgid "Link Target"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1514
+msgid "Please select image target"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1523 ../backend/page-
+#: builder/cs_functions.php:2409 ../backend/theme-options/cs_options_fields.php:
+#: 2607 ../backend/theme-options/cs_options_fields.php:2918
+msgid "Blank"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1524 ../backend/page-
+#: builder/cs_functions.php:2409 ../backend/theme-options/cs_options_fields.php:
+#: 2607 ../backend/theme-options/cs_options_fields.php:2918
+msgid "Self"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1660
+msgid "Use Image As"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1662
+msgid "Please select Image link where it will go"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1672
+msgid "LightBox to current thumbnail"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1673
+msgid "LightBox to Video"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1692
+msgid "Enter Specific Video Url Youtube or Vimeo"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1711 ../backend/theme-
+#: options/cs_options_fields.php:2159 ../backend/theme-options/cs_options_fields.
+#: php:2257 ../backend/theme-options/cs_options_fields.php:2578
+msgid "Url"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1715
+msgid "Enter specific url"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1850
+msgid "All Categories"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1883 ../backend/page-
+#: builder/cs_functions.php:2233 ../backend/theme-options/cs_options_fields.php:
+#: 1487 ../backend/theme-options/cs_options_fields.php:1740 ../backend/theme-
+#: options/cs_options_fields.php:2310 ../backend/theme-options/cs_options_fields.
+#: php:2763
+msgid "Are you sure! You want to delete this"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1925 ../backend/page-
+#: builder/cs_functions.php:1966 ../backend/theme-options/cs_options_fields.php:
+#: 2324 ../backend/theme-options/cs_options_fields.php:2362
+msgid "Please enter text for icon tooltip"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1944
+msgid "Please enter full Url"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1964 ../backend/theme-
+#: options/cs_options_fields.php:2176 ../backend/theme-options/cs_options_fields.
+#: php:2255 ../backend/theme-options/cs_options_fields.php:2360
+msgid "Icon Path"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1982
+msgid "Font awesome Icon"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:1995
+msgid "Font awesome Color"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2090 ../backend/page-
+#: builder/cs_functions.php:2164
+msgid "Load from IcoMoon selection.json"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2139
+msgid "Successfully loaded icons"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2143
+msgid "Error: Try Again?"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2235
+msgid "Top"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2237
+msgid "Bottom"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2239 ../backend/theme-
+#: options/cs_options.php:2433 ../backend/theme-options/cs_options.php:2488
+msgid "Sidebar"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2241 ../backend/shortcodes/cs_tabs.
+#: php:104
+msgid "Vertical"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2250 ../backend/theme-
+#: options/cs_options_fields.php:2750
+msgid "Custom Code"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2266
+msgid "Please enter the Title"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2284 ../backend/theme-
+#: options/cs_options_fields.php:2482 ../backend/theme-options/cs_options_fields.
+#: php:2794 ../classes/widgets/class_ads_banner.php:99
+msgid "Banner Style"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2285
+msgid "Please select the Banner"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2293 ../backend/theme-
+#: options/cs_options_fields.php:2492 ../backend/theme-options/cs_options_fields.
+#: php:2803 ../classes/widgets/class_ads_banner.php:110
+msgid "Top Banner"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2293 ../backend/theme-
+#: options/cs_options_fields.php:2492 ../backend/theme-options/cs_options_fields.
+#: php:2803 ../classes/widgets/class_ads_banner.php:111
+msgid "Bottom Banner"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2293 ../backend/theme-
+#: options/cs_options_fields.php:2492 ../backend/theme-options/cs_options_fields.
+#: php:2803 ../classes/widgets/class_ads_banner.php:112
+msgid "Sidebar Banner"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2293 ../backend/theme-
+#: options/cs_options_fields.php:2492 ../backend/theme-options/cs_options_fields.
+#: php:2803 ../classes/widgets/class_ads_banner.php:113
+msgid "Vertical Banner"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2303 ../backend/theme-
+#: options/cs_options_fields.php:2502 ../backend/theme-options/cs_options_fields.
+#: php:2813
+msgid "Banner Type"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2304
+msgid "Please select the Banner Type"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2313 ../backend/theme-
+#: options/cs_options_fields.php:2514 ../backend/theme-options/cs_options_fields.
+#: php:2824
+msgid "Code"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2372 ../backend/theme-
+#: options/cs_options_fields.php:2341 ../backend/theme-options/cs_options_fields.
+#: php:2889
+msgid "URL"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2373 ../backend/theme-
+#: options/cs_options_fields.php:2890
+msgid "Please enter Banner Url"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2400 ../backend/theme-
+#: options/cs_options_fields.php:2597 ../backend/theme-options/cs_options_fields.
+#: php:2908
+msgid "Target"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2401 ../backend/theme-
+#: options/cs_options_fields.php:2909
+msgid "Please select Banner Link Target"
+msgstr ""
+
+#: ../backend/page-builder/cs_functions.php:2421
+msgid "Ad sense Code"
+msgstr ""
+
+#: ../backend/page-builder/cs_main.php:13
+msgid "CS Page Builder"
+msgstr ""
+
+#: ../backend/page-builder/cs_main.php:73
+msgid "Add Page Sections"
+msgstr ""
+
+#: ../backend/shortcodes/cs_about.php:70
+msgid "About OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_about.php:81 ../backend/shortcodes/cs_accordion.php:
+#: 84 ../backend/shortcodes/cs_call_to_action.php:93 ..
+#: /backend/shortcodes/cs_clients.php:90 ../backend/shortcodes/cs_contactus.php:
+#: 74 ../backend/shortcodes/cs_faq.php:83 ../backend/shortcodes/cs_flex_column.
+#: php:88 ../backend/shortcodes/cs_flex_editor.php:84 ..
+#: /backend/shortcodes/cs_gallery.php:80 ../backend/shortcodes/cs_heading.php:90 .
+#: ./backend/shortcodes/cs_heading.php:141 ../backend/shortcodes/cs_icon_box.php:
+#: 90 ../backend/shortcodes/cs_image_frame.php:85 ..
+#: /backend/shortcodes/cs_infobox.php:84 ../backend/shortcodes/cs_list.php:90 ..
+#: /backend/shortcodes/cs_map.php:92 ../backend/shortcodes/cs_multi_counter.php:
+#: 77 ../backend/shortcodes/cs_price_table.php:77 ..
+#: /backend/shortcodes/cs_progressbar.php:83 ../backend/shortcodes/cs_quick_quote.
+#: php:74 ../backend/shortcodes/cs_quotes.php:83 ../backend/shortcodes/cs_sitemap.
+#: php:63 ../backend/shortcodes/cs_slider.php:104 ../backend/shortcodes/cs_table.
+#: php:103 ../backend/shortcodes/cs_tabs.php:78 ../backend/shortcodes/cs_team.php:
+#: 81 ../backend/shortcodes/cs_testimonial.php:80 ../backend/shortcodes/cs_video.
+#: php:76 ../backend/theme-options/cs_options.php:1537 ..
+#: /templates/blog/blog_element.php:65
+msgid "Element Title"
+msgstr ""
+
+#: ../backend/shortcodes/cs_about.php:83 ../backend/shortcodes/cs_table.php:105
+msgid "Enter element title here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_about.php:96
+msgid "Button Url"
+msgstr ""
+
+#: ../backend/shortcodes/cs_about.php:111 ../backend/shortcodes/cs_call_to_action.
+#: php:236 ../backend/shortcodes/cs_functions.php:2239 ..
+#: /backend/shortcodes/cs_price_table.php:268 ..
+#: /backend/shortcodes/cs_quick_quote.php:137
+msgid "Button Text"
+msgstr ""
+
+#: ../backend/shortcodes/cs_about.php:126
+msgid "Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_about.php:128
+msgid "Set the button Text color."
+msgstr ""
+
+#: ../backend/shortcodes/cs_about.php:142
+msgid "BG Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_about.php:144
+msgid "Set the BG color for your about us."
+msgstr ""
+
+#: ../backend/shortcodes/cs_about.php:161 ../backend/shortcodes/cs_call_to_action.
+#: php:127 ../backend/shortcodes/cs_faq.php:162 ..
+#: /backend/shortcodes/cs_flex_column.php:106 ../backend/shortcodes/cs_functions.
+#: php:1848 ../backend/shortcodes/cs_functions.php:2430 ..
+#: /backend/shortcodes/cs_heading.php:105 ../backend/shortcodes/cs_multi_counter.
+#: php:243 ../backend/shortcodes/cs_newsletter.php:96 ..
+#: /backend/shortcodes/cs_quotes.php:130 ../backend/theme-options/cs_options.php:
+#: 2623
+msgid "Content"
+msgstr ""
+
+#: ../backend/shortcodes/cs_about.php:180
+msgid "Image url"
+msgstr ""
+
+#: ../backend/shortcodes/cs_about.php:182
+msgid "Select image from media gallery."
+msgstr ""
+
+#: ../backend/shortcodes/cs_about.php:203 ../backend/shortcodes/cs_accordion.php:
+#: 241 ../backend/shortcodes/cs_button.php:327 ..
+#: /backend/shortcodes/cs_call_to_action.php:291 ../backend/shortcodes/cs_clients.
+#: php:306 ../backend/shortcodes/cs_contactus.php:160 ..
+#: /backend/shortcodes/cs_divider.php:142 ../backend/shortcodes/cs_faq.php:226 ..
+#: /backend/shortcodes/cs_flex_column.php:278 ..
+#: /backend/shortcodes/cs_flex_editor.php:123 ../backend/shortcodes/cs_gallery.
+#: php:259 ../backend/shortcodes/cs_heading.php:320 ..
+#: /backend/shortcodes/cs_icon_box.php:703 ../backend/shortcodes/cs_image_frame.
+#: php:169 ../backend/shortcodes/cs_infobox.php:264 ../backend/shortcodes/cs_list.
+#: php:270 ../backend/shortcodes/cs_map.php:420 ..
+#: /backend/shortcodes/cs_multi_counter.php:306 ..
+#: /backend/shortcodes/cs_newsletter.php:120 ../backend/shortcodes/cs_price_table.
+#: php:435 ../backend/shortcodes/cs_progressbar.php:210 ..
+#: /backend/shortcodes/cs_quick_quote.php:189 ../backend/shortcodes/cs_quotes.php:
+#: 150 ../backend/shortcodes/cs_revolution_slider.php:126 ..
+#: /backend/shortcodes/cs_sitemap.php:81 ../backend/shortcodes/cs_slider.php:278 .
+#: ./backend/shortcodes/cs_spacer.php:83 ../backend/shortcodes/cs_table.php:136 ..
+#: /backend/shortcodes/cs_tabs.php:257 ../backend/shortcodes/cs_team.php:336 ..
+#: /backend/shortcodes/cs_testimonial.php:342 ../backend/shortcodes/cs_tweets.php:
+#: 131 ../backend/shortcodes/cs_video.php:147 ../templates/blog/blog_element.php:
+#: 255
+msgid "Insert"
+msgstr ""
+
+#: ../backend/shortcodes/cs_accordion.php:76
+msgid "ACCORDION OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_accordion.php:86
+msgid "Add your accordian element title here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_accordion.php:127 ../backend/shortcodes/cs_clients.
+#: php:229 ../backend/shortcodes/cs_faq.php:120 ..
+#: /backend/shortcodes/cs_functions.php:1706 ../backend/shortcodes/cs_functions.
+#: php:1803 ../backend/shortcodes/cs_functions.php:1887 ..
+#: /backend/shortcodes/cs_functions.php:1959 ../backend/shortcodes/cs_functions.
+#: php:2058 ../backend/shortcodes/cs_functions.php:2144 ..
+#: /backend/shortcodes/cs_functions.php:2369 ../backend/shortcodes/cs_functions.
+#: php:2468 ../backend/shortcodes/cs_functions.php:2713 ..
+#: /backend/shortcodes/cs_functions.php:2802 ../backend/shortcodes/cs_functions.
+#: php:2876 ../backend/shortcodes/cs_functions.php:2920 ..
+#: /backend/shortcodes/cs_functions.php:2981 ../backend/shortcodes/cs_functions.
+#: php:3068 ../backend/shortcodes/cs_functions.php:3302 ..
+#: /backend/shortcodes/cs_functions.php:3462 ../backend/shortcodes/cs_functions.
+#: php:3560 ../backend/shortcodes/cs_functions.php:3633 ..
+#: /backend/shortcodes/cs_gallery.php:146 ../backend/shortcodes/cs_icon_box.php:
+#: 354 ../backend/shortcodes/cs_infobox.php:172 ../backend/shortcodes/cs_list.php:
+#: 164 ../backend/shortcodes/cs_multi_counter.php:185 ..
+#: /backend/shortcodes/cs_price_table.php:173 ..
+#: /backend/shortcodes/cs_progressbar.php:116 ../backend/shortcodes/cs_slider.php:
+#: 143 ../backend/shortcodes/cs_tabs.php:137 ../backend/shortcodes/cs_team.php:
+#: 173 ../backend/shortcodes/cs_testimonial.php:232 ../backend/theme-
+#: components/cs-mega-menu/edit_custom_walker.php:219 ../backend/theme-
+#: options/cs_options_fields.php:1487 ../backend/theme-options/cs_options_fields.
+#: php:1740 ../backend/theme-options/cs_options_fields.php:2310 ../backend/theme-
+#: options/cs_options_fields.php:2763
+msgid "Remove"
+msgstr ""
+
+#: ../backend/shortcodes/cs_accordion.php:131 ../backend/shortcodes/cs_functions.
+#: php:1710 ../backend/shortcodes/cs_functions.php:1963 ..
+#: /backend/shortcodes/cs_tabs.php:140
+msgid "Active"
+msgstr ""
+
+#: ../backend/shortcodes/cs_accordion.php:133
+msgid ""
+"You can set the accordion element that is open by default on frontend by "
+"select dropdown."
+msgstr ""
+
+#: ../backend/shortcodes/cs_accordion.php:151 ../backend/shortcodes/cs_functions.
+#: php:1730
+msgid "Accordion Title"
+msgstr ""
+
+#: ../backend/shortcodes/cs_accordion.php:153 ../backend/shortcodes/cs_functions.
+#: php:1732
+msgid "Add accordion title here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_accordion.php:167 ../backend/shortcodes/cs_functions.
+#: php:2736 ../backend/shortcodes/cs_list.php:186
+msgid "Icon:"
+msgstr ""
+
+#: ../backend/shortcodes/cs_accordion.php:170
+msgid "Select the Icon you would like to show with your accordion title."
+msgstr ""
+
+#: ../backend/shortcodes/cs_accordion.php:181 ../backend/shortcodes/cs_functions.
+#: php:1763
+msgid "Accordion Content"
+msgstr ""
+
+#: ../backend/shortcodes/cs_accordion.php:183 ../backend/shortcodes/cs_functions.
+#: php:1765
+msgid "Add accordion content here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_accordion.php:236
+msgid "Add accordion"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:68
+msgid "Button Options"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:79
+msgid "Label"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:81
+msgid "Add button text here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:96 ../backend/shortcodes/cs_call_to_action.
+#: php:252 ../backend/shortcodes/cs_functions.php:2224 ..
+#: /backend/shortcodes/cs_price_table.php:253
+msgid "Button Link"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:98
+msgid "Add your button link/URL here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:117
+msgid "Enable Border"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:119
+msgid "Enable/Disable button border with this drop down.."
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:152
+msgid "Define button border color with this color picker"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:185
+msgid "Define button background color with this color picker."
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:203
+msgid "Label Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:205
+msgid "Define button text color with this color picker."
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:221
+msgid "Button Size"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:223
+msgid "Select button size. Three sizes avaiable Large, Medium and Small"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:232 ../backend/shortcodes/cs_functions.php:
+#: 3015 ../backend/shortcodes/cs_gallery.php:180 ../templates/blog/blog_element.
+#: php:110
+msgid "Large"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:233 ../templates/blog/blog_element.php:111
+msgid "Medium"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:234 ../backend/shortcodes/cs_functions.php:
+#: 3014 ../backend/shortcodes/cs_gallery.php:179
+msgid "Small"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:244 ../backend/shortcodes/cs_multi_counter.
+#: php:197
+msgid "Choose Icon:"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:244
+msgid "Select the Icons you would like to show in your button."
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:254
+msgid "Button Icon Position"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:256
+msgid "Select button icon position with this dropdown"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:265 ..
+#: /backend/shortcodes/cs_call_to_action.php:278 ../backend/shortcodes/cs_heading.
+#: php:248 ../backend/shortcodes/cs_icon_box.php:175
+msgid "Left"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:276
+msgid "Button Type"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:278
+msgid ""
+"Select button type with this dropdown two button types avaiable rounded and "
+"square"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:287
+msgid "Square"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:288
+msgid "Rounded"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:300
+msgid "Open Link"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:302
+msgid ""
+"Select target of your button with this drop down _blank, Opens the link in a "
+"new window or tab. _self, Opens the link in the same frame as it was clicked"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:311
+msgid "In New Tab"
+msgstr ""
+
+#: ../backend/shortcodes/cs_button.php:312
+msgid "In Same Tab"
+msgstr ""
+
+#: ../backend/shortcodes/cs_call_to_action.php:81
+msgid "Call to Action options"
+msgstr ""
+
+#: ../backend/shortcodes/cs_call_to_action.php:95
+msgid "Add Call to Action element title here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_call_to_action.php:113
+msgid "You can add title for call to action."
+msgstr ""
+
+#: ../backend/shortcodes/cs_call_to_action.php:129
+msgid "You can add content for call to action."
+msgstr ""
+
+#: ../backend/shortcodes/cs_call_to_action.php:147 ..
+#: /backend/shortcodes/cs_functions.php:2163 ../backend/shortcodes/cs_infobox.php:
+#: 116 ../backend/shortcodes/cs_multi_counter.php:113 ..
+#: /backend/shortcodes/cs_price_table.php:192
+msgid "Title Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_call_to_action.php:149
+msgid "Define call to action title color with this color picker."
+msgstr ""
+
+#: ../backend/shortcodes/cs_call_to_action.php:166
+msgid "Define call to action background color with this color picker."
+msgstr ""
+
+#: ../backend/shortcodes/cs_call_to_action.php:186
+msgid "Select the background image for call to action element."
+msgstr ""
+
+#: ../backend/shortcodes/cs_call_to_action.php:204 ..
+#: /backend/shortcodes/cs_functions.php:2270 ../backend/shortcodes/cs_price_table.
+#: php:318
+msgid "Button Background Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_call_to_action.php:206
+msgid "Set the button background color for your call to action."
+msgstr ""
+
+#: ../backend/shortcodes/cs_call_to_action.php:220
+msgid "Button Text Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_call_to_action.php:222
+msgid "Set the button text color for your call to action."
+msgstr ""
+
+#: ../backend/shortcodes/cs_call_to_action.php:238
+msgid "Enter text of the button."
+msgstr ""
+
+#: ../backend/shortcodes/cs_call_to_action.php:254
+msgid "Enter button link here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:74
+msgid "Client Options"
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:92
+msgid "Enter Element title for Clients."
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:108
+msgid "Enable Grey Scale"
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:110 ../backend/shortcodes/cs_clients.php:
+#: 133
+msgid "Select clients style with this drop down two styles avaiable slider and grid."
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:119 ../backend/shortcodes/cs_clients.php:
+#: 143 ../backend/shortcodes/cs_clients.php:188 ..
+#: /backend/shortcodes/cs_functions.php:3013 ../backend/shortcodes/cs_gallery.php:
+#: 178 ../backend/theme-options/cs_options.php:240 ../backend/theme-
+#: options/cs_options.php:255 ../backend/theme-options/cs_options.php:317 ..
+#: /backend/theme-options/cs_options.php:331
+msgid "Please Select"
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:131 ../backend/shortcodes/cs_tweets.php:81
+msgid "Choose Style"
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:144 ../backend/shortcodes/cs_heading.php:
+#: 140 ../backend/shortcodes/cs_multi_counter.php:104 ..
+#: /backend/shortcodes/cs_tweets.php:90
+msgid "Fancy"
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:145 ..
+#: /backend/shortcodes/cs_multi_counter.php:105 ../templates/blog/blog_element.
+#: php:112
+msgid "Modern"
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:146 ../backend/shortcodes/cs_icon_box.php:
+#: 155 ../classes/widgets/class_mailchimp.php:69 ..
+#: /classes/widgets/class_recentposts.php:66
+msgid "Simple"
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:161
+msgid "Per Slide"
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:163
+msgid ""
+"Enter num of clients show on page in numeric value (only applicable on "
+"slider views)."
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:176
+msgid "Slider Arrows"
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:178
+msgid "Please Use switch for on/off slider arrows."
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:233 ../backend/shortcodes/cs_functions.
+#: php:2925 ../backend/shortcodes/cs_functions.php:2986 ..
+#: /backend/shortcodes/cs_gallery.php:149
+msgid "Website Url"
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:235 ../backend/shortcodes/cs_functions.
+#: php:2927
+msgid "Enter your client URL."
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:253 ../backend/shortcodes/cs_functions.
+#: php:2944
+msgid "Choose Logo"
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:255 ../backend/shortcodes/cs_functions.
+#: php:2946
+msgid "Attach client logo here from media gallery."
+msgstr ""
+
+#: ../backend/shortcodes/cs_clients.php:299
+msgid "Add Client"
+msgstr ""
+
+#: ../backend/shortcodes/cs_contactus.php:64
+msgid "Contact Form Options"
+msgstr ""
+
+#: ../backend/shortcodes/cs_contactus.php:76
+msgid "Give a element title for form"
+msgstr ""
+
+#: ../backend/shortcodes/cs_contactus.php:89
+msgid "Fields Label"
+msgstr ""
+
+#: ../backend/shortcodes/cs_contactus.php:91
+msgid ""
+"You can on/off form labels with this dropdown. Label represents a caption for "
+"an item in a user interface."
+msgstr ""
+
+#: ../backend/shortcodes/cs_contactus.php:99 ../backend/shortcodes/cs_heading.php:
+#: 286 ../backend/shortcodes/cs_map.php:298 ../backend/shortcodes/cs_map.php:322 .
+#: ./backend/shortcodes/cs_map.php:345 ../backend/shortcodes/cs_map.php:368
+msgid "On"
+msgstr ""
+
+#: ../backend/shortcodes/cs_contactus.php:100 ../backend/shortcodes/cs_heading.
+#: php:287 ../backend/shortcodes/cs_map.php:299 ../backend/shortcodes/cs_map.php:
+#: 323 ../backend/shortcodes/cs_map.php:346 ../backend/shortcodes/cs_map.php:369 .
+#: ./backend/theme-options/cs_options.php:727 ../backend/theme-options/cs_options.
+#: php:744
+msgid "Off"
+msgstr ""
+
+#: ../backend/shortcodes/cs_contactus.php:110
+msgid "Receiver Email"
+msgstr ""
+
+#: ../backend/shortcodes/cs_contactus.php:112
+msgid "Add email where do you want receive emails"
+msgstr ""
+
+#: ../backend/shortcodes/cs_contactus.php:125 ..
+#: /backend/shortcodes/cs_quick_quote.php:106
+msgid "Success Message"
+msgstr ""
+
+#: ../backend/shortcodes/cs_contactus.php:127
+msgid ""
+"Enter here success message. When form submitted your success message will be "
+"print"
+msgstr ""
+
+#: ../backend/shortcodes/cs_contactus.php:141 ..
+#: /backend/shortcodes/cs_quick_quote.php:122
+msgid "Error Message"
+msgstr ""
+
+#: ../backend/shortcodes/cs_contactus.php:143
+msgid ""
+"Enter your error message here. If user filled something wrong in form Error "
+"message will be print"
+msgstr ""
+
+#: ../backend/shortcodes/cs_counters.php:14
+msgid ""
+"'COUNTER' Page Builder element Replaced By 'MULTI COUNTER' in Current Theme "
+"Version. Please add it again."
+msgstr ""
+
+#: ../backend/shortcodes/cs_divider.php:69
+msgid "DIVIDER OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_divider.php:84
+msgid "Set margin top for the divider in px."
+msgstr ""
+
+#: ../backend/shortcodes/cs_divider.php:114
+msgid "Set margin bottom for the divider in px."
+msgstr ""
+
+#: ../backend/shortcodes/cs_faq.php:75
+msgid "FAQ OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_faq.php:85
+msgid "Add FAQ element title here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_faq.php:119 ../backend/shortcodes/cs_functions.php:
+#: 1324 ../backend/shortcodes/cs_functions.php:1802
+msgid "FAQ"
+msgstr ""
+
+#: ../backend/shortcodes/cs_faq.php:125 ../backend/shortcodes/cs_functions.php:
+#: 1808 ../backend/shortcodes/cs_multi_counter.php:93 ../backend/theme-
+#: options/cs_options_fields.php:2673
+msgid "Style"
+msgstr ""
+
+#: ../backend/shortcodes/cs_faq.php:127
+msgid ""
+"You can set the FAQ element that is open by default on frontend by select "
+"dropdown."
+msgstr ""
+
+#: ../backend/shortcodes/cs_faq.php:148
+msgid "Add FAQ question text here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_faq.php:164
+msgid "Enter FAQ content here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_faq.php:221
+msgid "Add Faq"
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_column.php:75
+msgid "COLUMN OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_column.php:90
+msgid "Enter element here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_column.php:108
+msgid "Enter content of the column."
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_column.php:124 ../backend/shortcodes/cs_gallery.
+#: php:96
+msgid "Margin Left"
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_column.php:126
+msgid "Enter margin left without px"
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_column.php:140 ../backend/shortcodes/cs_gallery.
+#: php:111
+msgid "Margin Right"
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_column.php:142
+msgid "Enter margin right without px"
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_column.php:158
+msgid "Top Padding"
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_column.php:160
+msgid "If you want to set top padding then set it."
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_column.php:173
+msgid "Bottom Padding"
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_column.php:175 ..
+#: /backend/shortcodes/cs_flex_column.php:204
+msgid "If you want to set bottom padding then set it."
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_column.php:188
+msgid "Left Padding"
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_column.php:190
+msgid "If you want to set left padding then set it."
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_column.php:202
+msgid "Right Padding"
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_column.php:224
+msgid "Select Image for column background."
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_column.php:242
+msgid "Element Title Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_editor.php:70
+msgid "Editor Options"
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_editor.php:86 ../backend/shortcodes/cs_heading.
+#: php:92
+msgid "Enter your element title here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_editor.php:102
+msgid "Enter Description"
+msgstr ""
+
+#: ../backend/shortcodes/cs_flex_editor.php:104
+msgid "Enter your description here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:188 ../frontend/shortcodes/cs_sitemap.
+#: php:32
+msgid "Pages"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:311 ../backend/shortcodes/cs_functions.
+#: php:1923 ../backend/shortcodes/cs_functions.php:2079 ..
+#: /backend/shortcodes/cs_quotes.php:98 ../backend/shortcodes/cs_testimonial.php:
+#: 254
+msgid "Author"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:331
+msgid "View All Posts"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:396
+msgid "Share"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1184 ../backend/shortcodes/cs_functions.
+#: php:1924
+msgid "Editor"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1238
+msgid "Icon Boxes"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1250
+msgid "Progress Bars"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1280 ..
+#: /backend/shortcodes/cs_multi_counter.php:184
+msgid "Counters"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1318
+msgid "Site Map"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1334
+msgid "JC: CV Package"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1341
+msgid "JC: Job Package"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1348
+msgid "JC: Job Specialisms"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1355
+msgid "JC: Job Search"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1362
+msgid "JC: Candidate"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1369 ../backend/shortcodes/cs_functions.
+#: php:1376
+msgid "JC: Employer"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1382
+msgid "JC: Jobs"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1388
+msgid "JC: Register"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1522 ../backend/shortcodes/cs_slider.
+#: php:80 ../backend/theme-options/cs_options.php:1626 ../backend/theme-
+#: options/cs_options.php:1678 ../backend/theme-options/cs_options.php:1730 ..
+#: /backend/theme-options/cs_options.php:1782 ../backend/theme-options/cs_options.
+#: php:1886 ../backend/theme-options/cs_options.php:1938 ../backend/theme-
+#: options/cs_options.php:1990 ../backend/theme-options/cs_options.php:2043 ..
+#: /backend/theme-options/cs_options.php:2095 ../backend/theme-options/cs_options.
+#: php:2148 ../backend/theme-options/cs_options.php:2201 ../backend/theme-
+#: options/cs_options.php:2253
+msgid "Size"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1524 ../backend/shortcodes/cs_slider.
+#: php:82
+msgid "Select column width. This width will be calculated depend page width"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1534 ../backend/shortcodes/cs_icon_box.
+#: php:203 ../backend/shortcodes/cs_price_table.php:123
+msgid "1 Column"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1535 ../backend/shortcodes/cs_icon_box.
+#: php:204 ../backend/shortcodes/cs_price_table.php:124 ..
+#: /backend/shortcodes/cs_team.php:106 ../backend/theme-components/cs-mega-
+#: menu/edit_custom_walker.php:177 ../templates/blog/blog_element.php:139
+msgid "2 Columns"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1536 ../backend/shortcodes/cs_icon_box.
+#: php:205 ../backend/shortcodes/cs_price_table.php:125 ..
+#: /backend/shortcodes/cs_team.php:107 ../backend/theme-components/cs-mega-
+#: menu/edit_custom_walker.php:178 ../templates/blog/blog_element.php:140
+msgid "3 Columns"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1537 ../backend/shortcodes/cs_icon_box.
+#: php:206 ../backend/shortcodes/cs_price_table.php:126 ..
+#: /backend/shortcodes/cs_team.php:108 ../backend/theme-components/cs-mega-
+#: menu/edit_custom_walker.php:179 ../templates/blog/blog_element.php:141
+msgid "4 Columns"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1538 ../backend/shortcodes/cs_icon_box.
+#: php:207 ../backend/shortcodes/cs_price_table.php:127
+msgid "6 Columns"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1584
+msgid "Use this option if you want to use specified Class for this element"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1598 ../backend/shortcodes/cs_functions.
+#: php:1652
+msgid "Fade"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1598 ../backend/shortcodes/cs_functions.
+#: php:1652
+msgid "Slide"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1598 ../backend/shortcodes/cs_functions.
+#: php:1652
+msgid "left Slide"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1608 ../backend/shortcodes/cs_functions.
+#: php:1669
+msgid "Animation Class"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1610 ../backend/shortcodes/cs_functions.
+#: php:1671
+msgid "Select Entrance animation type from the dropdown"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1639
+msgid "Use this option if you want to use specified id for this element"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1654
+msgid "Select Animation"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1712
+msgid ""
+"You can set the accordion section that is open by default on frontend by "
+"select dropdown"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1747 ../backend/shortcodes/cs_functions.
+#: php:2381 ../backend/shortcodes/cs_functions.php:2530
+msgid "Font awsome Icon:"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1750 ../backend/shortcodes/cs_functions.
+#: php:3164 ../backend/shortcodes/cs_icon_box.php:570
+msgid "Select the Icons you would like to show with your accordion title."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1810
+msgid ""
+"You can set the FAQ section that is open by default on frontend by select "
+"dropdown.."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1832
+msgid "Add FAQ title here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1850 ../backend/shortcodes/cs_heading.
+#: php:107 ../backend/shortcodes/cs_quotes.php:132
+msgid "Enter content here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1891
+msgid "Register Title:"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1907
+msgid "User Role:"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1917
+msgid "Subscriber"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1918
+msgid "Staff"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1919
+msgid "Member"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1920
+msgid "Instructor"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1921
+msgid "Customer"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1922
+msgid "Contributor"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1925
+msgid "Administrator"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1934
+msgid "Register Text:"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1958 ../backend/shortcodes/cs_tabs.php:
+#: 136
+msgid "Tab"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1965 ../backend/shortcodes/cs_tabs.php:
+#: 142
+msgid ""
+"You can set the tab section that is open by default on frontend by select "
+"dropdown"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1983 ../backend/shortcodes/cs_tabs.php:
+#: 160
+msgid "Tab Title"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:1985
+msgid "Enter tab title here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2000 ../backend/shortcodes/cs_tabs.php:
+#: 177
+msgid "Tab Font awesome Icon"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2003
+msgid "Choose icon for this tab. It appear with title."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2016 ../backend/shortcodes/cs_tabs.php:
+#: 192
+msgid "Tab Text"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2018 ../backend/shortcodes/cs_tabs.php:
+#: 194
+msgid "Insert tab detail text here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2057 ../backend/shortcodes/cs_slider.
+#: php:143 ../backend/shortcodes/cs_testimonial.php:231
+msgid "Testimonial"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2062 ../backend/shortcodes/cs_functions.
+#: php:2656 ../backend/shortcodes/cs_functions.php:3535 ..
+#: /backend/shortcodes/cs_testimonial.php:236
+msgid "Text"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2064 ..
+#: /backend/shortcodes/cs_testimonial.php:238
+msgid "Enter testimonial text here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2081 ..
+#: /backend/shortcodes/cs_testimonial.php:256
+msgid "Enter testimonial author name here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2095 ..
+#: /backend/shortcodes/cs_testimonial.php:270
+msgid "Company"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2097 ..
+#: /backend/shortcodes/cs_testimonial.php:272
+msgid "Enter company name of author here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2148 ..
+#: /backend/shortcodes/cs_price_table.php:177
+msgid " Title"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2150
+msgid "Enter  Title Here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2165 ../backend/shortcodes/cs_functions.
+#: php:2327 ../backend/shortcodes/cs_price_table.php:194
+msgid "Set price-table title color from here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2179 ..
+#: /backend/shortcodes/cs_price_table.php:208
+msgid " Price"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2181 ..
+#: /backend/shortcodes/cs_price_table.php:210
+msgid "Add price without symbol"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2194 ..
+#: /backend/shortcodes/cs_price_table.php:223
+msgid " Currency Symbols"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2196 ..
+#: /backend/shortcodes/cs_price_table.php:225
+msgid "Add your currency symbol here like $"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2209 ..
+#: /backend/shortcodes/cs_price_table.php:238
+msgid "Time Duration"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2211 ..
+#: /backend/shortcodes/cs_price_table.php:240
+msgid ""
+"Add time duration for package or time range like this package for a monthly or "
+"yearly So write here for Monthly and year for Yearly Package"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2226 ..
+#: /backend/shortcodes/cs_price_table.php:255
+msgid "Add price table button Link here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2241 ..
+#: /backend/shortcodes/cs_price_table.php:270
+msgid "Add button text here Example : Buy Now, Purchase Now, View Packages etc"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2254 ../backend/shortcodes/cs_functions.
+#: php:2640 ../backend/shortcodes/cs_functions.php:2673 ..
+#: /backend/shortcodes/cs_price_table.php:283
+msgid "Button Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2256 ..
+#: /backend/shortcodes/cs_price_table.php:285 ..
+#: /backend/shortcodes/cs_price_table.php:302
+msgid "Set button color with color picker"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2272 ..
+#: /backend/shortcodes/cs_price_table.php:320
+msgid "Set button background color with color picker"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2286 ..
+#: /backend/shortcodes/cs_price_table.php:334
+msgid "Featured on/off"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2288 ..
+#: /backend/shortcodes/cs_price_table.php:336
+msgid "Price table featured option enable/disable with this dropdown"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2306 ..
+#: /backend/shortcodes/cs_price_table.php:354 ../backend/theme-components/cs-mega-
+#: menu/edit_custom_walker.php:152 ../classes/widgets/class_mailchimp.php:80
+msgid "Description"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2308
+msgid ""
+"Features can be add easily in input with this shortcode \n"
+"						[feature_item]Text here[/feature_item][feature_item]Text "
+"here[/feature_item]"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2325 ..
+#: /backend/shortcodes/cs_price_table.php:300
+msgid "Column Background Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2384
+msgid "Choose icon for counter."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2400 ..
+#: /backend/shortcodes/cs_multi_counter.php:213
+msgid "Enter title of counter icon."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2414 ..
+#: /backend/shortcodes/cs_multi_counter.php:227
+msgid "Number"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2416 ..
+#: /backend/shortcodes/cs_multi_counter.php:229
+msgid "Set counting numbers for count"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2471
+msgid "Counter Title"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2487 ../backend/theme-components/cs-
+#: activation-plugins/tgm_plugin_activation.php:1658
+msgid "Type"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2497
+msgid "Counter Style One"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2498
+msgid "Counter Style Two"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2499
+msgid "Counter Style Three"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2500
+msgid "Counter Style Four"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2509
+msgid "Choose Icon"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2519 ../backend/shortcodes/cs_functions.
+#: php:3120 ../backend/shortcodes/cs_icon_box.php:530 ..
+#: /backend/shortcodes/cs_list.php:120 ../backend/theme-options/cs_options_fields.
+#: php:2258
+msgid "Icon"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2576
+msgid "Numbers"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2592
+msgid "Count Text Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2608 ../backend/shortcodes/cs_functions.
+#: php:3715 ../backend/shortcodes/cs_slider.php:229
+msgid "Link Title"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2712 ../backend/shortcodes/cs_list.php:
+#: 163
+msgid "List Item"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2717 ../backend/shortcodes/cs_list.php:
+#: 168
+msgid "List Title"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2739
+msgid "Choose icon for list."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2750 ../backend/shortcodes/cs_functions.
+#: php:3174 ../backend/shortcodes/cs_icon_box.php:583 ..
+#: /backend/shortcodes/cs_infobox.php:99 ../backend/shortcodes/cs_list.php:200 ..
+#: /backend/shortcodes/cs_multi_counter.php:143
+msgid "Icon Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2752 ../backend/shortcodes/cs_list.php:
+#: 202
+msgid "Select Icon Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2765 ../backend/shortcodes/cs_list.php:
+#: 215
+msgid "Icon Background Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2767 ../backend/shortcodes/cs_list.php:
+#: 217
+msgid "Select Icon Background Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2800 ../backend/shortcodes/cs_infobox.
+#: php:171
+msgid "Info box Item(s)"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2810 ../backend/shortcodes/cs_infobox.
+#: php:179
+msgid "Info Box Font awesome Icon"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2813 ../backend/shortcodes/cs_infobox.
+#: php:182
+msgid "Select the Icons you would like to show in infobox section."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2824 ../backend/shortcodes/cs_infobox.
+#: php:196
+msgid "Infobox Title"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2826 ../backend/shortcodes/cs_infobox.
+#: php:198
+msgid "Enter the infobox title here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2841 ../backend/shortcodes/cs_infobox.
+#: php:213
+msgid "Infobox Content"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2843 ../backend/shortcodes/cs_infobox.
+#: php:215
+msgid "Enter the content here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2875
+msgid "Album Item(s)"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2880
+msgid "Track Title"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2896
+msgid "Track MP3 Url"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2919
+msgid "Client"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:2988 ../backend/shortcodes/cs_gallery.
+#: php:151
+msgid "Enter your gallery URL."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3002 ../backend/shortcodes/cs_gallery.
+#: php:167
+msgid "Gallery Size"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3004 ../backend/shortcodes/cs_gallery.
+#: php:169
+msgid "Select gallery size"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3026 ../backend/shortcodes/cs_gallery.
+#: php:192
+msgid "Choose Image"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3028
+msgid "Attach gallery image here from media ."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3072
+msgid "Icon Box Title"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3074 ../backend/shortcodes/cs_icon_box.
+#: php:360
+msgid "Add icon_box title here.."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3110
+msgid "Icon Type"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3112 ../backend/shortcodes/cs_icon_box.
+#: php:521
+msgid "Select icon type image or font icon."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3136
+msgid "Icon Box Image"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3138 ../backend/shortcodes/cs_functions.
+#: php:3339 ../backend/shortcodes/cs_icon_box.php:546 ..
+#: /backend/shortcodes/cs_team.php:210
+msgid "Attach image from media gallery."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3161 ../backend/shortcodes/cs_icon_box.
+#: php:567
+msgid "Icon Box Icon"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3176 ../backend/shortcodes/cs_icon_box.
+#: php:585
+msgid "Set the position of icon_box image here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3192 ../backend/shortcodes/cs_icon_box.
+#: php:373 ../backend/shortcodes/cs_icon_box.php:601
+msgid "Title Link"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3194 ../backend/shortcodes/cs_icon_box.
+#: php:603
+msgid "Enter icon_box title link here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3211 ../backend/shortcodes/cs_icon_box.
+#: php:618
+msgid "Icon Box Content"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3213 ../backend/shortcodes/cs_icon_box.
+#: php:620
+msgid "Enter little description about icon_box."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3306 ../backend/shortcodes/cs_team.php:
+#: 177 ../frontend/shortcodes/cs_contactus.php:109
+msgid "Name"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3308 ../backend/shortcodes/cs_team.php:
+#: 179
+msgid "Enter team member name here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3320 ../backend/shortcodes/cs_team.php:
+#: 191
+msgid "Designation"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3322 ../backend/shortcodes/cs_team.php:
+#: 193
+msgid "Enter team member designation here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3337 ../backend/shortcodes/cs_team.php:
+#: 208
+msgid "Team Profile Image"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3358 ../backend/shortcodes/cs_team.php:
+#: 227 ../backend/theme-options/cs_options.php:235 ../backend/theme-
+#: options/cs_options.php:2308
+msgid "Facebook"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3360 ../backend/shortcodes/cs_team.php:
+#: 229
+msgid "Insert facebook profile URL of member."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3373 ../backend/shortcodes/cs_team.php:
+#: 242
+msgid "Twitter URL"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3375 ../backend/shortcodes/cs_team.php:
+#: 244
+msgid "Insert twitter profile URL of member."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3388 ../backend/shortcodes/cs_team.php:
+#: 257
+msgid "Linkedin"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3390 ../backend/shortcodes/cs_team.php:
+#: 259
+msgid "Insert linkedin profile URL of member."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3403 ../backend/shortcodes/cs_team.php:
+#: 272
+msgid "Email"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3405 ../backend/shortcodes/cs_team.php:
+#: 274
+msgid "Add member email for any one can contact."
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3482
+msgid "Title color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3564 ..
+#: /backend/shortcodes/cs_progressbar.php:120
+msgid "Progress Bars Title"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3579 ..
+#: /backend/shortcodes/cs_progressbar.php:136
+msgid "Skill (in percentage)"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3595 ..
+#: /backend/shortcodes/cs_progressbar.php:152
+msgid "Progress Bars Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3632
+msgid "Offer Slider Item"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3685 ../backend/shortcodes/cs_slider.
+#: php:197
+msgid "Contents"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3755
+msgid "Gallery is Empty. Please Select Media"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3787
+msgid "Select Media"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3792 ../backend/shortcodes/cs_functions.
+#: php:3807
+msgid "Reload"
+msgstr ""
+
+#: ../backend/shortcodes/cs_functions.php:3823
+msgid "Upload Media"
+msgstr ""
+
+#: ../backend/shortcodes/cs_gallery.php:64
+msgid "Gallery Options"
+msgstr ""
+
+#: ../backend/shortcodes/cs_gallery.php:82
+msgid "Enter Element title for Gallery."
+msgstr ""
+
+#: ../backend/shortcodes/cs_gallery.php:98
+msgid "Use this option if you want to use margin left for this element. (without px)"
+msgstr ""
+
+#: ../backend/shortcodes/cs_gallery.php:113
+msgid ""
+"Use this option if you want to use margin right for this element. (without "
+"px)"
+msgstr ""
+
+#: ../backend/shortcodes/cs_gallery.php:194
+msgid "Attach gallery image here from media."
+msgstr ""
+
+#: ../backend/shortcodes/cs_gallery.php:252 ../classes/class_meta_fields.php:903
+msgid "Add Gallery"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:77
+msgid "HEADING OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:123
+msgid "Heading Style"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:125 ..
+#: /backend/shortcodes/cs_multi_counter.php:95
+msgid ""
+"Select headings and style with this dropdown. H1 to H6 Headings and one "
+"Fancy view. All headings font sizes,color and family can be change from "
+"theme options."
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:134
+msgid "h1"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:135
+msgid "h2"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:136
+msgid "h3"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:137
+msgid "h4"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:138
+msgid "h5"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:139
+msgid "h6"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:151
+msgid "Font Size"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:154
+msgid "Add font size for heading here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:178 ../backend/shortcodes/cs_heading.php:
+#: 195 ../backend/theme-options/cs_options.php:1652 ../backend/theme-
+#: options/cs_options.php:1704 ../backend/theme-options/cs_options.php:1756 ..
+#: /backend/theme-options/cs_options.php:1808 ../backend/theme-options/cs_options.
+#: php:1860 ../backend/theme-options/cs_options.php:1912 ../backend/theme-
+#: options/cs_options.php:1964 ../backend/theme-options/cs_options.php:2017 ..
+#: /backend/theme-options/cs_options.php:2069 ../backend/theme-options/cs_options.
+#: php:2122 ../backend/theme-options/cs_options.php:2175 ../backend/theme-
+#: options/cs_options.php:2227 ../backend/theme-options/cs_options.php:2279
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:181
+msgid "Add letter spacing for heading here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:206 ../backend/shortcodes/cs_heading.php:
+#: 222 ../backend/theme-options/cs_options.php:1635 ../backend/theme-
+#: options/cs_options.php:1687 ../backend/theme-options/cs_options.php:1739 ..
+#: /backend/theme-options/cs_options.php:1791 ../backend/theme-options/cs_options.
+#: php:1843 ../backend/theme-options/cs_options.php:1895 ../backend/theme-
+#: options/cs_options.php:1947 ../backend/theme-options/cs_options.php:2000 ..
+#: /backend/theme-options/cs_options.php:2052 ../backend/theme-options/cs_options.
+#: php:2105 ../backend/theme-options/cs_options.php:2158 ../backend/theme-
+#: options/cs_options.php:2210 ../backend/theme-options/cs_options.php:2262
+msgid "Line Height"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:209
+msgid "Add line height for heading here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:239
+msgid "Align the content position with this dropdown."
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:259
+msgid "Heading Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:261
+msgid "Choose heading color with this color picker."
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:275
+msgid "Divider On/Off"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:277
+msgid "Set divider on/off for heading with this dropdown."
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:295
+msgid "Font Style"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:297
+msgid "Select the font style here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:306
+msgid "Normal"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:307
+msgid "Italic"
+msgstr ""
+
+#: ../backend/shortcodes/cs_heading.php:308
+msgid "Oblique"
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:77
+msgid "Icon Box Options"
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:92 ../backend/shortcodes/cs_team.php:83
+msgid "Add element title here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:105
+msgid "Content "
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:107
+msgid "Add content here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:126
+msgid "Element Title Color "
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:128
+msgid "Set title and element color from here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:142
+msgid "Styles"
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:144
+msgid "Choose style for multiple icon_box."
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:165
+msgid "Alignment"
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:167
+msgid "Set the position of icon box image here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:178
+msgid "Top Left"
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:179
+msgid "Top Right"
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:195 ../backend/shortcodes/cs_price_table.
+#: php:115 ../backend/shortcodes/cs_team.php:98
+msgid "Select Number of Columns"
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:216
+msgid "Icon Box Title Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:218
+msgid "Set title color from here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:232
+msgid "Icon Box Content Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:234
+msgid ""
+"Provide a hex colour code here (with #) for text color. if you want to "
+"override the default."
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:247
+msgid "Icon Box icon Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:249
+msgid ""
+"Provide a hex colour code here (with #) for icon color. if you want to "
+"override the default."
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:375
+msgid "Enter icon box title link here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:519
+msgid "Image/icon"
+msgstr ""
+
+#: ../backend/shortcodes/cs_icon_box.php:697
+msgid "Add Icon Box"
+msgstr ""
+
+#: ../backend/shortcodes/cs_image_frame.php:72
+msgid "Image Options"
+msgstr ""
+
+#: ../backend/shortcodes/cs_image_frame.php:87
+msgid "Enter Element Title here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_image_frame.php:106
+msgid "Enter image title.."
+msgstr ""
+
+#: ../backend/shortcodes/cs_image_frame.php:124
+msgid "Select Image"
+msgstr ""
+
+#: ../backend/shortcodes/cs_image_frame.php:126
+msgid "Select image from media gallery with this button."
+msgstr ""
+
+#: ../backend/shortcodes/cs_image_frame.php:147
+msgid "If you would like a caption to be shown below the image, add it here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_infobox.php:73
+msgid "INFOBOX OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_infobox.php:86
+msgid "Enter infobox title here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_infobox.php:101
+msgid "Set the Color for Icon"
+msgstr ""
+
+#: ../backend/shortcodes/cs_infobox.php:118
+msgid "Set the Color for Title"
+msgstr ""
+
+#: ../backend/shortcodes/cs_infobox.php:132
+msgid "Content color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_infobox.php:134
+msgid "Set the Color for Content"
+msgstr ""
+
+#: ../backend/shortcodes/cs_infobox.php:259
+msgid "Add Item"
+msgstr ""
+
+#: ../backend/shortcodes/cs_list.php:72
+msgid "LIST OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_list.php:92
+msgid "Enter element title"
+msgstr ""
+
+#: ../backend/shortcodes/cs_list.php:106
+msgid "List Style"
+msgstr ""
+
+#: ../backend/shortcodes/cs_list.php:108
+msgid "Choose list style from here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_list.php:118
+msgid "Numeric"
+msgstr ""
+
+#: ../backend/shortcodes/cs_list.php:119
+msgid "Bullet"
+msgstr ""
+
+#: ../backend/shortcodes/cs_list.php:121
+msgid "Alphabetic"
+msgstr ""
+
+#: ../backend/shortcodes/cs_list.php:170
+msgid "Enter list title"
+msgstr ""
+
+#: ../backend/shortcodes/cs_list.php:259
+msgid "Add List Item"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:78
+msgid "Map Options"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:94
+msgid "Enter Element Title here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:110 ../backend/shortcodes/cs_video.php:123
+msgid "Height"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:112
+msgid "Map height set here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:127
+msgid "Latitude"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:129
+msgid ""
+"Latitude is the angular distance of a place north or south of the earths\n"
+"								  equator, or of the equator of a celestial object, usually "
+"expressed in degrees and minutes."
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:146
+msgid "Longitude"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:148
+msgid ""
+"Longitude the angular distance of a place east or west of the Greenwich \n"
+"								 meridian, or west of the standard meridian of a celestial object, "
+"usually expressed in degrees and minutes."
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:165
+msgid "Zoom"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:167
+msgid "Set map zoom level example 100 or leave it empty by default will be apply."
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:182
+msgid "Types"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:184
+msgid "Choose type with this dropdown"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:193
+msgid "ROADMAP"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:194
+msgid "HYBRID"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:195
+msgid "SATELLITE"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:196
+msgid "TERRAIN"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:208
+msgid "Info Text"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:210
+msgid "Enter info text for marker."
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:226
+msgid "Info Text Width"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:228
+msgid "set info text max width here.."
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:245
+msgid "Info Text Height"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:247
+msgid "Info Text Height."
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:264
+msgid "Marker Icon"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:266
+msgid "Select the Marker Icon Path for element."
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:287
+msgid "Show Marker"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:289
+msgid "This switch on/off marker from the map."
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:311
+msgid "Disable Controls"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:313
+msgid "Map control disable/enable with this dropdown."
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:334
+msgid "Draggable"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:336
+msgid "Draggable On/Off in map."
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:357
+msgid "Scroll Wheel"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:359
+msgid "Set Scroll wheel zoom in zoom out enable disable from this dropdown."
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:380 ../backend/shortcodes/cs_testimonial.php:
+#: 191
+msgid "Border"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:382
+msgid "Set border for map"
+msgstr ""
+
+#: ../backend/shortcodes/cs_map.php:404
+msgid "Choose map border color."
+msgstr ""
+
+#: ../backend/shortcodes/cs_multi_counter.php:64
+msgid "MULTI COUNTER OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_multi_counter.php:79
+msgid "Enter Element title for this counter."
+msgstr ""
+
+#: ../backend/shortcodes/cs_multi_counter.php:115
+msgid "Select title Color for this counter."
+msgstr ""
+
+#: ../backend/shortcodes/cs_multi_counter.php:128
+msgid "Number Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_multi_counter.php:130
+msgid "Select Number Color for this counter."
+msgstr ""
+
+#: ../backend/shortcodes/cs_multi_counter.php:145
+msgid "Select Icon Color for this counter."
+msgstr ""
+
+#: ../backend/shortcodes/cs_multi_counter.php:301
+msgid "Add Counter"
+msgstr ""
+
+#: ../backend/shortcodes/cs_newsletter.php:66
+msgid "Newsletter OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_newsletter.php:82
+msgid "Enter title for newsletter here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_newsletter.php:98
+msgid "Enter newsletter text Example : (Signup Weekly Newsletter.)"
+msgstr ""
+
+#: ../backend/shortcodes/cs_price_table.php:65
+msgid "PRICE TABLE OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_price_table.php:79 ..
+#: /backend/shortcodes/cs_price_table.php:179
+msgid "Enter Element Title Here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_price_table.php:356
+msgid ""
+"Features can be add easily in input with this shortcode \n"
+"					    					[feature_item]Text here[/feature_item][feature_item]Text "
+"here[/feature_item]"
+msgstr ""
+
+#: ../backend/shortcodes/cs_price_table.php:373
+msgid "column Background Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_price_table.php:375
+msgid "Set column Background color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_price_table.php:430
+msgid "Add Price table"
+msgstr ""
+
+#: ../backend/shortcodes/cs_progressbar.php:70
+msgid "Progress bars Options"
+msgstr ""
+
+#: ../backend/shortcodes/cs_progressbar.php:115
+msgid "Progress Bar"
+msgstr ""
+
+#: ../backend/shortcodes/cs_progressbar.php:205
+msgid "Add Progress bar"
+msgstr ""
+
+#: ../backend/shortcodes/cs_quick_quote.php:68
+msgid "Quick Qoute Form Options"
+msgstr ""
+
+#: ../backend/shortcodes/cs_quick_quote.php:76
+msgid ""
+"This is used for the one page navigation, to identify the section below. "
+"Give a title"
+msgstr ""
+
+#: ../backend/shortcodes/cs_quick_quote.php:90
+msgid "Send To"
+msgstr ""
+
+#: ../backend/shortcodes/cs_quick_quote.php:92
+msgid "Add a email which you want to receive email"
+msgstr ""
+
+#: ../backend/shortcodes/cs_quick_quote.php:108
+msgid "Set a message if your email sent successfully"
+msgstr ""
+
+#: ../backend/shortcodes/cs_quick_quote.php:124
+msgid "set a message for error message"
+msgstr ""
+
+#: ../backend/shortcodes/cs_quick_quote.php:156 ..
+#: /backend/shortcodes/cs_quick_quote.php:172
+msgid "Provide a hex colour code here (with #) if you want to override the default"
+msgstr ""
+
+#: ../backend/shortcodes/cs_quotes.php:70
+msgid "Quote Options"
+msgstr ""
+
+#: ../backend/shortcodes/cs_quotes.php:85
+msgid "Enter element title here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_quotes.php:100
+msgid "Give the name of the quote author"
+msgstr ""
+
+#: ../backend/shortcodes/cs_quotes.php:113
+msgid "Author Url"
+msgstr ""
+
+#: ../backend/shortcodes/cs_quotes.php:115
+msgid "Give the URL of author profile external/internal"
+msgstr ""
+
+#: ../backend/shortcodes/cs_revolution_slider.php:71 ..
+#: /backend/shortcodes/cs_slider.php:69
+msgid "SLIDER OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_revolution_slider.php:77
+msgid "Slider Element Title"
+msgstr ""
+
+#: ../backend/shortcodes/cs_revolution_slider.php:79 ..
+#: /backend/shortcodes/cs_slider.php:106 ../backend/shortcodes/cs_slider.php:148 .
+#: ./backend/shortcodes/cs_slider.php:184 ../backend/shortcodes/cs_slider.php:199
+msgid "Enter Slider Element title here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_revolution_slider.php:102
+msgid "Choose Slider"
+msgstr ""
+
+#: ../backend/shortcodes/cs_revolution_slider.php:104
+msgid ""
+"Choose revolution slider from here. If you have not any slider create new "
+"with activating revolution slider plugin."
+msgstr ""
+
+#. Translation
+#. Translation
+#: ../backend/shortcodes/cs_shortcodes_config.php:69 ../frontend/config.php:68
+msgid "Call To Action"
+msgstr ""
+
+#: ../backend/shortcodes/cs_shortcodes_config.php:70 ../frontend/config.php:69
+msgid "Contact form"
+msgstr ""
+
+#: ../backend/shortcodes/cs_shortcodes_config.php:72 ../frontend/config.php:71
+msgid "Flex Column"
+msgstr ""
+
+#: ../backend/shortcodes/cs_shortcodes_config.php:74 ../frontend/config.php:73
+msgid "Mail chimp"
+msgstr ""
+
+#: ../backend/shortcodes/cs_shortcodes_config.php:75 ../frontend/config.php:74
+msgid "Price table"
+msgstr ""
+
+#: ../backend/shortcodes/cs_shortcodes_config.php:76 ../frontend/config.php:75
+msgid "Promo box"
+msgstr ""
+
+#: ../backend/shortcodes/cs_sitemap.php:52
+msgid "SITEMAP OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_slider.php:90 ../backend/theme-options/cs_options.php:
+#: 411
+msgid "Full width"
+msgstr ""
+
+#: ../backend/shortcodes/cs_slider.php:91
+msgid "One half"
+msgstr ""
+
+#: ../backend/shortcodes/cs_slider.php:92
+msgid "Two third"
+msgstr ""
+
+#: ../backend/shortcodes/cs_slider.php:93
+msgid "Three fourth"
+msgstr ""
+
+#: ../backend/shortcodes/cs_slider.php:214
+msgid "Read More Link"
+msgstr ""
+
+#: ../backend/shortcodes/cs_slider.php:216
+msgid "Add number of post for show posts on page"
+msgstr ""
+
+#: ../backend/shortcodes/cs_slider.php:271
+msgid "Add Offer"
+msgstr ""
+
+#: ../backend/shortcodes/cs_spacer.php:53
+msgid "SPACER OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_spacer.php:64
+msgid "Spacer Height"
+msgstr ""
+
+#: ../backend/shortcodes/cs_spacer.php:66
+msgid "spacer height without(px)"
+msgstr ""
+
+#: ../backend/shortcodes/cs_spacer.php:89
+msgid "spacer"
+msgstr ""
+
+#: ../backend/shortcodes/cs_table.php:93
+msgid "Table Options"
+msgstr ""
+
+#: ../backend/shortcodes/cs_table.php:119
+msgid "Table Content"
+msgstr ""
+
+#: ../backend/shortcodes/cs_table.php:121
+msgid ""
+"Fill your table content in shortcode here. (th) for table heading and (td) "
+"for table container"
+msgstr ""
+
+#: ../backend/shortcodes/cs_tabs.php:65
+msgid "TAB OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_tabs.php:93
+msgid "Tab Style"
+msgstr ""
+
+#: ../backend/shortcodes/cs_tabs.php:95
+msgid "Choose tab style from here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_tabs.php:103
+msgid "Horizontal"
+msgstr ""
+
+#: ../backend/shortcodes/cs_tabs.php:252
+msgid "Add Tab"
+msgstr ""
+
+#: ../backend/shortcodes/cs_team.php:66
+msgid "Team Options"
+msgstr ""
+
+#: ../backend/shortcodes/cs_team.php:330
+msgid "Add Team"
+msgstr ""
+
+#: ../backend/shortcodes/cs_testimonial.php:65
+msgid "TESTIMONIALS OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_testimonial.php:82 ../classes/widgets/class-wp-nav-
+#: menu-widget-chimp.php:144 ../classes/widgets/class_mailchimp.php:46 ..
+#: /classes/widgets/class_opening_hours.php:62 ..
+#: /classes/widgets/class_promotions.php:50
+msgid "Enter your element title here."
+msgstr ""
+
+#: ../backend/shortcodes/cs_testimonial.php:112
+msgid "Author Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_testimonial.php:129
+msgid "Company Color"
+msgstr ""
+
+#: ../backend/shortcodes/cs_testimonial.php:158
+msgid "Choose View"
+msgstr ""
+
+#: ../backend/shortcodes/cs_testimonial.php:160
+msgid "Choose testimonial style from here"
+msgstr ""
+
+#: ../backend/shortcodes/cs_testimonial.php:170
+msgid "Advance Slider"
+msgstr ""
+
+#: ../backend/shortcodes/cs_testimonial.php:171 ../templates/blog/blog_element.
+#: php:108
+msgid "Classic"
+msgstr ""
+
+#: ../backend/shortcodes/cs_testimonial.php:193
+msgid "Set Border as yes or no."
+msgstr ""
+
+#: ../backend/shortcodes/cs_testimonial.php:337
+msgid "Add testimonials"
+msgstr ""
+
+#: ../backend/shortcodes/cs_tweets.php:56
+msgid "TWITTER OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_tweets.php:66
+msgid "Twitter Username"
+msgstr ""
+
+#: ../backend/shortcodes/cs_tweets.php:90 ../classes/widgets/class_mailchimp.php:
+#: 70 ../classes/widgets/class_recentposts.php:67
+msgid "Modern"
+msgstr ""
+
+#: ../backend/shortcodes/cs_tweets.php:113
+msgid "No of Tweets"
+msgstr ""
+
+#: ../backend/shortcodes/cs_video.php:65
+msgid "VIDEO OPTIONS"
+msgstr ""
+
+#: ../backend/shortcodes/cs_video.php:106
+msgid "Width"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:270
+msgid "Something went wrong."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:277
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:286
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:292
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:298
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:302
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:
+#: 304 ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.
+#: php:1839
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:305
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:306
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:307
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:
+#: 625 ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.
+#: php:2429
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:697
+msgid ""
+"The remote plugin package is does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:
+#: 697 ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.
+#: php:700
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:700
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:743
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:
+#: 867 ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.
+#: php:1836
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1488
+msgid "External Source"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1491
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1496
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1500
+msgid "Required"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1502
+msgid "Recommended"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1506
+msgid "Not Installed"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1508
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1586
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1602
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1641
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1656
+msgid "Plugin"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1657
+msgid "Source"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1659
+msgid "Status"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1676
+msgid "Install"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1677
+msgid "Activate"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1727
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1823
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2184
+msgid "Install package not available."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2185
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2186
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2187
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2188
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2189
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2199
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2321
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2322
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2326
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2327
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:
+#: 2327 ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.
+#: php:2334
+msgid "Show Details"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:
+#: 2327 ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.
+#: php:2334
+msgid "Hide Details"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2328
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2329
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2333
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2334
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2335
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../backend/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2336
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../backend/theme-components/cs-google-fonts/cs_functions.php:89 ..
+#: /backend/theme-components/cs-google-fonts/cs_functions.php:95 ../backend/theme-
+#: options/cs_options_fields.php:1206
+msgid "Select Attribute"
+msgstr ""
+
+#: ../backend/theme-components/cs-header/cs_functions.php:1111
+msgid "Download CV"
+msgstr ""
+
+#: ../backend/theme-components/cs-header/cs_functions.php:1119
+msgid "Member Since"
+msgstr ""
+
+#: ../backend/theme-components/cs-header/cs_functions.php:1138 ../backend/theme-
+#: components/cs-header/cs_functions.php:1180
+msgid "Archives"
+msgstr ""
+
+#: ../backend/theme-components/cs-header/cs_functions.php:1144 ..
+#: /classes/cs_global_functions.php:45
+#, php-format
+msgid "Search Results : %s"
+msgstr ""
+
+#: ../backend/theme-components/cs-header/cs_functions.php:1150
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../backend/theme-components/cs-header/cs_functions.php:1156
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../backend/theme-components/cs-header/cs_functions.php:1156
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../backend/theme-components/cs-header/cs_functions.php:1162
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../backend/theme-components/cs-header/cs_functions.php:1162
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../backend/theme-components/cs-header/cs_functions.php:1168
+msgid "Error 404"
+msgstr ""
+
+#: ../backend/theme-components/cs-mega-menu/edit_custom_walker.php:68
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: ../backend/theme-components/cs-mega-menu/edit_custom_walker.php:72
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../backend/theme-components/cs-mega-menu/edit_custom_walker.php:107
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../backend/theme-components/cs-mega-menu/edit_custom_walker.php:115
+msgid "url"
+msgstr ""
+
+#: ../backend/theme-components/cs-mega-menu/edit_custom_walker.php:122
+msgid "Navigation Label"
+msgstr ""
+
+#: ../backend/theme-components/cs-mega-menu/edit_custom_walker.php:128
+msgid "Title Attribute"
+msgstr ""
+
+#: ../backend/theme-components/cs-mega-menu/edit_custom_walker.php:135
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../backend/theme-components/cs-mega-menu/edit_custom_walker.php:140
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../backend/theme-components/cs-mega-menu/edit_custom_walker.php:146
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../backend/theme-components/cs-mega-menu/edit_custom_walker.php:155
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../backend/theme-components/cs-mega-menu/edit_custom_walker.php:164
+msgid "Active Mega Menu"
+msgstr ""
+
+#: ../backend/theme-components/cs-mega-menu/edit_custom_walker.php:174
+msgid "No. of Columns"
+msgstr ""
+
+#: ../backend/theme-components/cs-mega-menu/edit_custom_walker.php:176 ..
+#: /templates/blog/blog_element.php:138
+msgid "1 Columns"
+msgstr ""
+
+#: ../backend/theme-components/cs-mega-menu/edit_custom_walker.php:185
+msgid "Sub Title"
+msgstr ""
+
+#: ../backend/theme-components/cs-mega-menu/edit_custom_walker.php:206
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../backend/theme-components/cs-mega-menu/edit_custom_walker.php:219
+msgid "Cancel"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:26
+msgid "Saving changes..."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:53
+msgid "Save All Settings"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:76
+msgid "Reset All Options"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:235 ../backend/theme-
+#: options/cs_options.php:2336
+msgid "Dribble"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:235 ../backend/theme-
+#: options/cs_options.php:2315 ../backend/theme-options/cs_options.php:2686 ..
+#: /backend/theme-options/cs_options.php:2688
+msgid "Twitter"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:235
+msgid "Behance"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:237
+msgid "Banner 1"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:241 ../backend/theme-
+#: options/cs_options.php:256
+msgid "Blogs Sidebar"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:242 ../backend/theme-
+#: options/cs_options.php:257
+msgid "Faq Sidebar"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:243
+msgid "Price and Packages"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:244
+msgid "Contact us"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:245
+msgid "Other pages"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:246
+msgid "Home sidebar"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:247
+msgid "Job Listing"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:248
+msgid "Employer Listing"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:249
+msgid "Candidates"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:264
+msgid "Breadcrumbs Sub Header"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:264
+msgid "No sub Header"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:265
+msgid "Custom"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:343
+msgid "General"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:347 ../backend/theme-
+#: options/cs_options.php:399
+msgid "global"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:348 ../backend/theme-
+#: options/cs_options.php:364 ../backend/theme-options/cs_options.php:768
+msgid "Header"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:349
+msgid "Sub Header"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:350 ../backend/theme-
+#: options/cs_options.php:366
+msgid "Footer"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:351 ../backend/theme-
+#: options/cs_options.php:2291
+msgid "social icons"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:352
+msgid "social sharing"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:353 ../backend/theme-
+#: options/cs_options.php:2413
+msgid "Ads Unit Settings"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:354 ../backend/theme-
+#: options/cs_options.php:2377
+msgid "custom code"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:358
+msgid "color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:363
+msgid "general"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:365 ../backend/theme-
+#: options/cs_options.php:775
+msgid "Top Strip"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:367
+msgid "headings"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:371
+msgid "typography / fonts"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:377 ../backend/theme-
+#: options/cs_options.php:1572
+msgid "Custom Font"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:378 ../backend/theme-
+#: options/cs_options.php:1606
+msgid "Google Fonts"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:382 ../backend/theme-
+#: options/cs_options.php:2429
+msgid "sidebar"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:391 ../backend/theme-
+#: options/cs_options.php:2516
+msgid "Footer sidebar"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:404
+msgid "Layout"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:406
+msgid "Set boxed and full width layout for theme"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:410 ../backend/theme-
+#: options/cs_options.php:621
+msgid "Boxed"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:422
+msgid "Background color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:422 ../backend/theme-
+#: options/cs_options.php:990
+msgid "Background"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:422
+msgid "Pattern"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:422
+msgid "Custom Image"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:428
+msgid "Provide a hex color code here (with #) for theme background color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:437
+msgid "Background image"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:439
+msgid "Choose from Predefined Background images."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:450
+msgid "Background pattern"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:452
+msgid "Choose from Predefined Pattern images."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:463
+msgid "Custom image"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:465
+msgid "This option can be used only with Boxed Layout."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:473
+msgid "Background image position"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:475
+msgid "Choose image position for body background"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:492
+msgid "Custom favicon"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:494
+msgid ""
+"An favicon associated with a particular website, typically displayed in the "
+"address bar of a browser accessing the site or next to the site name in a "
+"user's list of bookmarks. Attach favicon here from media gallery."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:500
+msgid "Responsive"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:502
+msgid ""
+"One switch for Responsive On/Off. Responsive Web Design is about using CSS "
+"and HTML to resize, hide, shrink, enlarge, or move the content to make it "
+"look good on any screen."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:509
+msgid "Default Container Width"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:511
+msgid "If you want to set default width for bootstrap container. (without px)"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:519
+msgid "Map Style"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:521
+msgid "Select Map style for all Maps."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:527
+msgid "Map Box"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:528
+msgid "Blue Water"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:529
+msgid "Icy Blue"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:530
+msgid "Bluish"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:531
+msgid "Light Blue Water"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:532
+msgid "Clad Me"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:533
+msgid "Chilled"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:534
+msgid "Two Tone"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:535
+msgid "Light and Dark"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:536
+msgid "Ilustracao"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:537
+msgid "Flat Pale"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:539
+msgid "Moret"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:568
+msgid "header"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:573
+msgid "Header Padding"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:575
+msgid "Set Header top/bottom Padding."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:583
+msgid "Logo"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:585
+msgid "Select your custom logo in png, jpeg and gif format from media."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:592
+msgid "Header for Default Pages"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:599 ../backend/theme-
+#: options/cs_options.php:610
+msgid "Default Header"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:599 ../backend/theme-
+#: options/cs_options.php:610
+msgid "Transparent Header"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:603
+msgid "Header for Detail Posts"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:614
+msgid "Header Type"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:616
+msgid "Select default header style here for all pages."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:623
+msgid "logo width"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:625
+msgid "Set exact logo width in pixels."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:632
+msgid "Logo Height"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:634
+msgid "Set exact logo height pixels."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:643
+msgid "Logo margin top"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:645
+msgid "Set the logo margin from top."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:653
+msgid "Logo margin bottom"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:655
+msgid "Set the logo margin from bottom."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:662
+msgid "Logo margin right"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:664
+msgid "Set the logo margin from right."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:671
+msgid "Logo margin left"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:673
+msgid "Set the logo margin from left."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:682 ../backend/theme-
+#: options/cs_options.php:684
+msgid "Header Elements"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:692
+msgid "Cart Count"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:694
+msgid "Enable/Disable Woocommerce Cart Count"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:703
+msgid "Sticky Header On/Off"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:706
+msgid ""
+"The sticky header makes your header visible at all times. It's a great "
+"feature that allows people to browse faster and consume more of your content."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:713
+msgid "Sticky Logo"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:715
+msgid "Set sticky header logo from media gallery."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:721
+msgid "Search View"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:724
+msgid "Set Header Search View"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:727
+msgid "Toggle"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:727
+msgid "Full Page"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:730 ../backend/theme-
+#: options/cs_options.php:732
+msgid "Nav Sidebar"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:737
+msgid "Sidebar Icon"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:744
+msgid "After Logo"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:744
+msgid "After Menu"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:747
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:754
+msgid "Left Menu"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:754 ..
+#: /frontend/templates/headers/modern.php:199
+msgid "Top Menu"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:754 ..
+#: /frontend/templates/headers/modern.php:202
+msgid "Right Menu"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:754
+msgid "bottom Menu"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:757
+msgid "Select Sidebar"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:770
+msgid "Header Top Strip"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:785
+msgid "Infobox 1"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:793
+msgid "Infobox 2"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:801
+msgid "News Ticker"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:809
+msgid "Social Icon"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:811
+msgid "N/A"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:820
+msgid "Multi Linguale"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:832
+msgid "sub header"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:841
+msgid ""
+"Subheader settings made here will be implemented on all default subheader "
+"pages."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:874
+msgid "For apply revolution  slider on all default subheader pages."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:893
+msgid "Custom padding for subheader content top area."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:902
+msgid "Custom padding for subheader content bottom area."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:909
+msgid "Content Text Align"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:911
+msgid "Align subheader text to left, right and center."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:918 ../backend/theme-
+#: options/cs_options.php:1553
+msgid "Page Title"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:920
+msgid "Turn Page title On/Off from here."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:931
+msgid "Breadcrumbs enable/disable from subheader."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:940
+msgid "Provide a hex color code here (with #) for subheader background."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:947
+msgid "Provide a hex color code here (with #) for subheader text."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:982
+msgid "Sub Header Height"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:984
+msgid "Set Sub Header Height"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:992
+msgid "Select your background image from media."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:998
+msgid "Parallax"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1007 ../backend/theme-
+#: options/cs_options.php:1009
+msgid "Candidate Sub Header"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1022
+msgid "Single Candidate Header Cover"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1024
+msgid "Set Default Single Candidate Header Cover"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1030
+msgid "Candidate Header Cover Style"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1032
+msgid "Select Candidate Header Cover Style for sub header."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1037 ../backend/theme-
+#: options/cs_options.php:1065 ../backend/theme-options/cs_options.php:1100 ..
+#: /backend/theme-options/cs_options.php:1128 ../backend/theme-options/cs_options.
+#: php:1161
+msgid "Dark"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1037 ../backend/theme-
+#: options/cs_options.php:1065 ../backend/theme-options/cs_options.php:1100 ..
+#: /backend/theme-options/cs_options.php:1128 ../backend/theme-options/cs_options.
+#: php:1161
+msgid "Light"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1050
+msgid "Candidate Dashboard Header Cover"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1052
+msgid "Set Default Candidate Dashboard Header Cover"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1058
+msgid "Default Candidate Header Cover Style"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1060
+msgid "Select Default Candidate Header Cover Style for sub header."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1068 ../backend/theme-
+#: options/cs_options.php:1070
+msgid "Employer Sub Header"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1085
+msgid "Single Employer Header Cover"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1087
+msgid "Set Default Single Employer Header Cover"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1093
+msgid "Single Employer Header Cover Style"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1095
+msgid "Select Single Employer Header Cover Style for sub header."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1113
+msgid "Employer Dashboard Header Cover"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1115
+msgid "Set Default Employer Dashboard Header Cover"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1121
+msgid "Select Default Employer Header Cover Style"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1123
+msgid "Select Default Employer  Header Cover Style for sub header."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1131 ../backend/theme-
+#: options/cs_options.php:1133
+msgid "Job Sub Header"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1146
+msgid "Single Job Header Cover"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1148
+msgid "Set Default Single Job Header Cover"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1154
+msgid "Select Default Single Job Header Cover Style"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1156
+msgid "Select Default Single Job  Header Cover Style for sub header."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1172
+msgid "footer options"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1180
+msgid "Footer section"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1182
+msgid "Switch for enable/diable footer area."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1191
+msgid "Select Footer"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1193
+msgid "Select default footer style here for all pages."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1198
+msgid "Default Footer"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1198
+msgid "Fancy Footer"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1198
+msgid "Modern Footer"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1201 ../backend/theme-
+#: options/cs_options.php:1263
+msgid "Footer Widgets"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1203
+msgid "Switch for enable/diable footer widgets."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1212
+msgid "Footer Social Icons"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1214
+msgid "Enable/disable footer social icon from here."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1223
+msgid "Enable/disable footer menu from here."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1231 ..
+#: /frontend/templates/footers/classic.php:120
+msgid "Back to top"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1233
+msgid "Enable/Disable back to top button."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1241
+msgid "Footer Logo"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1243
+msgid "Choose footer logo from media gallery."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1248
+msgid "Footer logo Link"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1250
+msgid "Enter footer logo link here"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1255 ../backend/theme-
+#: options/cs_options.php:1463
+msgid "Copyright Text"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1257
+msgid "Enter copyright text here."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1259
+msgid "2014 Jobhunt Name All rights reserved. Design by"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1259
+msgid "Chimp Studio"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1265
+msgid "Select footer widget space with this dropdown"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1274
+msgid "general colors"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1278
+msgid "Theme Color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1280
+msgid "Provide a hex color code here (with #) for theme."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1286
+msgid "Body Text Color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1288
+msgid "Provide a hex color code here (with #) for theme body text color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1294
+msgid "Sidebar Widget title color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1299 ../backend/theme-
+#: options/cs_options.php:1368
+msgid "Provide a hex color code here (with #) for sidebar widget color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1303
+msgid "header colors"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1309 ../backend/theme-
+#: options/cs_options.php:1311
+msgid "Header Colors"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1317
+msgid "Provide a hex color code here (with #) for header background color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1322
+msgid "Navigation Background Color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1324
+msgid "Provide a hex color code here (with #) for navigation background color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1330
+msgid "Menu Link color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1332 ../backend/theme-
+#: options/cs_options.php:1340
+msgid "Provide a hex color code here (with #) for menu link color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1338
+msgid "Menu Heading color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1345
+msgid "Menu Hover Link color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1347
+msgid "Provide a hex color code here (with #) for menu hover link color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1352
+msgid "Submenu Background"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1354
+msgid "Provide a hex color code here (with #) for submenu background color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1359
+msgid "Submenu Link Color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1361
+msgid "Provide a hex color code here (with #) for submenu link color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1366
+msgid "Submenu Hover Link Color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1375
+msgid "Top Strip colors"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1396
+msgid "Link Color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1404
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1412
+msgid "Icons Color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1420
+msgid "Icons Hover Color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1429
+msgid "footer colors"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1433
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1435
+msgid "Provide a hex color code here (with #) for footer background color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1440
+msgid "Footer Top Border Color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1442
+msgid "Provide a hex color code here (with #) for footer top border color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1447
+msgid "Footer Text Color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1449
+msgid "Provide a hex color code here (with #) for footer text color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1454
+msgid "Footer Link Color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1456
+msgid "Provide a hex color code here (with #) for footer link color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1465
+msgid "Provide a hex color code here (with #) for footer copyright text color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1471
+msgid "Copyright Background Color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1473
+msgid ""
+"Provide a hex color code here (with #) for footer copyright section "
+"background color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1479
+msgid "Footer Widgets Title"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1490
+msgid "heading colors"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1494
+msgid "heading h1"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1496
+msgid "Provide a hex color code here (with #) for heading 1 color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1501
+msgid "heading h2"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1503
+msgid "Provide a hex color code here (with #) for heading 2 color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1508
+msgid "heading h3"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1510
+msgid "Provide a hex color code here (with #) for heading 3 color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1515
+msgid "heading h4"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1517
+msgid "Provide a hex color code here (with #) for heading 4 color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1522
+msgid "heading h5"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1524
+msgid "Provide a hex color code here (with #) for heading 5 color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1529
+msgid "heading h6"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1531
+msgid "Provide a hex color code here (with #) for heading 6 color."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1545
+msgid "Post Title"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1561
+msgid "Widgets Title"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1576
+msgid "Custom Font .woff"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1578
+msgid "Upload Your Custom Font file in .woff format"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1583
+msgid "Custom Font .ttf"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1585
+msgid "Upload Your  Custom Font file in .ttf format"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1590
+msgid "Custom Font .svg"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1592
+msgid "Upload Your  Custom Font file in .svg format"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1597
+msgid "Custom Font .eot"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1599
+msgid "Upload Your Custom Font file in  .eot format"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1610
+msgid "Content Font"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1612
+msgid "Set fonts for Body text"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1618 ../backend/theme-
+#: options/cs_options.php:1670 ../backend/theme-options/cs_options.php:1722 ..
+#: /backend/theme-options/cs_options.php:1774 ../backend/theme-options/cs_options.
+#: php:1826 ../backend/theme-options/cs_options.php:1878 ../backend/theme-
+#: options/cs_options.php:1930 ../backend/theme-options/cs_options.php:1982 ..
+#: /backend/theme-options/cs_options.php:2035 ../backend/theme-options/cs_options.
+#: php:2087 ../backend/theme-options/cs_options.php:2140 ../backend/theme-
+#: options/cs_options.php:2193 ../backend/theme-options/cs_options.php:2245
+msgid "Font Attribute"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1620 ../backend/theme-
+#: options/cs_options.php:1672 ../backend/theme-options/cs_options.php:1724 ..
+#: /backend/theme-options/cs_options.php:1776 ../backend/theme-options/cs_options.
+#: php:1828 ../backend/theme-options/cs_options.php:1880 ../backend/theme-
+#: options/cs_options.php:1932 ../backend/theme-options/cs_options.php:1984 ..
+#: /backend/theme-options/cs_options.php:2037 ../backend/theme-options/cs_options.
+#: php:2089 ../backend/theme-options/cs_options.php:2142 ../backend/theme-
+#: options/cs_options.php:2195 ../backend/theme-options/cs_options.php:2247
+msgid "Set Font Attribute"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1644 ../backend/theme-
+#: options/cs_options.php:1696 ../backend/theme-options/cs_options.php:1748 ..
+#: /backend/theme-options/cs_options.php:1800 ../backend/theme-options/cs_options.
+#: php:1852 ../backend/theme-options/cs_options.php:1904 ../backend/theme-
+#: options/cs_options.php:1956 ../backend/theme-options/cs_options.php:2009 ..
+#: /backend/theme-options/cs_options.php:2061 ../backend/theme-options/cs_options.
+#: php:2114 ../backend/theme-options/cs_options.php:2167 ../backend/theme-
+#: options/cs_options.php:2219 ../backend/theme-options/cs_options.php:2271
+msgid "Text Transform"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1650 ../backend/theme-
+#: options/cs_options.php:1702 ../backend/theme-options/cs_options.php:1754 ..
+#: /backend/theme-options/cs_options.php:1806 ../backend/theme-options/cs_options.
+#: php:1910 ../backend/theme-options/cs_options.php:1962 ../backend/theme-
+#: options/cs_options.php:2015 ../backend/theme-options/cs_options.php:2067 ..
+#: /backend/theme-options/cs_options.php:2120 ../backend/theme-options/cs_options.
+#: php:2173 ../backend/theme-options/cs_options.php:2225 ../backend/theme-
+#: options/cs_options.php:2277
+msgid "none"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1650 ../backend/theme-
+#: options/cs_options.php:1702 ../backend/theme-options/cs_options.php:1754 ..
+#: /backend/theme-options/cs_options.php:1806 ../backend/theme-options/cs_options.
+#: php:1910 ../backend/theme-options/cs_options.php:1962 ../backend/theme-
+#: options/cs_options.php:2015 ../backend/theme-options/cs_options.php:2067 ..
+#: /backend/theme-options/cs_options.php:2120 ../backend/theme-options/cs_options.
+#: php:2173 ../backend/theme-options/cs_options.php:2225 ../backend/theme-
+#: options/cs_options.php:2277
+msgid "capitalize"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1650 ../backend/theme-
+#: options/cs_options.php:1702 ../backend/theme-options/cs_options.php:1754 ..
+#: /backend/theme-options/cs_options.php:1806 ../backend/theme-options/cs_options.
+#: php:1910 ../backend/theme-options/cs_options.php:1962 ../backend/theme-
+#: options/cs_options.php:2015 ../backend/theme-options/cs_options.php:2067 ..
+#: /backend/theme-options/cs_options.php:2120 ../backend/theme-options/cs_options.
+#: php:2173 ../backend/theme-options/cs_options.php:2225 ../backend/theme-
+#: options/cs_options.php:2277
+msgid "uppercase"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1650 ../backend/theme-
+#: options/cs_options.php:1702 ../backend/theme-options/cs_options.php:1754 ..
+#: /backend/theme-options/cs_options.php:1806 ../backend/theme-options/cs_options.
+#: php:1910 ../backend/theme-options/cs_options.php:1962 ../backend/theme-
+#: options/cs_options.php:2015 ../backend/theme-options/cs_options.php:2067 ..
+#: /backend/theme-options/cs_options.php:2120 ../backend/theme-options/cs_options.
+#: php:2173 ../backend/theme-options/cs_options.php:2225 ../backend/theme-
+#: options/cs_options.php:2277
+msgid "lowercase"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1650 ../backend/theme-
+#: options/cs_options.php:1702 ../backend/theme-options/cs_options.php:1754 ..
+#: /backend/theme-options/cs_options.php:1806 ../backend/theme-options/cs_options.
+#: php:1910 ../backend/theme-options/cs_options.php:1962 ../backend/theme-
+#: options/cs_options.php:2015 ../backend/theme-options/cs_options.php:2067 ..
+#: /backend/theme-options/cs_options.php:2120 ../backend/theme-options/cs_options.
+#: php:2173 ../backend/theme-options/cs_options.php:2225 ../backend/theme-
+#: options/cs_options.php:2277
+msgid "initial"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1650 ../backend/theme-
+#: options/cs_options.php:1702 ../backend/theme-options/cs_options.php:1754 ..
+#: /backend/theme-options/cs_options.php:1806 ../backend/theme-options/cs_options.
+#: php:1910 ../backend/theme-options/cs_options.php:1962 ../backend/theme-
+#: options/cs_options.php:2015 ../backend/theme-options/cs_options.php:2067 ..
+#: /backend/theme-options/cs_options.php:2120 ../backend/theme-options/cs_options.
+#: php:2173 ../backend/theme-options/cs_options.php:2225 ../backend/theme-
+#: options/cs_options.php:2277
+msgid "inherit"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1662
+msgid "Main Menu Font"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1664
+msgid "Set font for main Menu. It will be applied to sub menu as well"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1714
+msgid "Heading 1 Font"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1716 ../backend/theme-
+#: options/cs_options.php:1768 ../backend/theme-options/cs_options.php:1820 ..
+#: /backend/theme-options/cs_options.php:1872 ../backend/theme-options/cs_options.
+#: php:1924 ../backend/theme-options/cs_options.php:1976
+msgid "Select font for Headings. It will apply on all posts and pages headings"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1766
+msgid "Heading 2 Font"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1818
+msgid "Heading 3 Font"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1834
+msgid "Heading 3 Size"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1870
+msgid "Heading 4 Font"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1922
+msgid "Heading 5 Font"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:1974
+msgid "Heading 6 Font"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2027
+msgid "Element Title Font"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2029
+msgid "Set font for Element Title Headings"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2079
+msgid "Page Title Font"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2081
+msgid "Set font for Page Title Headings"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2132
+msgid "Post Title Font"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2134
+msgid "Set font for Post Title Headings"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2185
+msgid "Sidebar Widget Font"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2187
+msgid "Set font for Widget Headings"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2237
+msgid "Footer Widget Font"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2239
+msgid "Set font for Footer Widget Headings"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2295
+msgid "Social Network"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2304
+msgid "social Sharing"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2322
+msgid "Google Plus"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2329
+msgid "Tumblr"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2343
+msgid "Instagram"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2350
+msgid "StumbleUpon"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2357
+msgid "youtube"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2367
+msgid "share more"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2385
+msgid "Custom Css"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2387
+msgid ""
+"Custom css linked with theme css user can add own custom styling without "
+"editing any css file."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2392
+msgid "Custom JavaScript"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2394
+msgid "User can add own custom JS without editing any js file."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2401
+msgid "About Custom Code!"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2407
+msgid "Ads Unit"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2422
+msgid "About Add Unit!"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2435 ../backend/theme-
+#: options/cs_options.php:2522
+msgid ""
+"Select a sidebar from the list already given. (Nine pre-made sidebars are "
+"given)"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2442
+msgid "post layout"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2444
+msgid "Default Single Post Layout"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2448
+msgid "Single Post Layout"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2450
+msgid "Its default settings for single post layout."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2456 ../backend/theme-
+#: options/cs_options.php:2485
+msgid "full width"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2457 ../backend/theme-
+#: options/cs_options.php:2483
+msgid "sidebar left"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2458 ../backend/theme-
+#: options/cs_options.php:2484
+msgid "sidebar right"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2461
+msgid "Single Layout Sidebar"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2463
+msgid "Select your Single post selector."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2470
+msgid "default pages"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2472
+msgid "Default Page Layout"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2476
+msgid "Default Pages Layout"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2478
+msgid "Its default settings for single page layout."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2490
+msgid ""
+"Select pre-made sidebars for default pages on sidebar layout. Full width "
+"layout cannot have sidebars"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2499 ../backend/theme-
+#: options/cs_options.php:2501
+msgid "Default Page Content"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2506
+msgid "Default Excerpt Length (in words)"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2520
+msgid "Footer Sidebar"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2531 ../backend/theme-
+#: options/cs_options.php:2538
+msgid "Maintenance Mode"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2542
+msgid "Maintenace Page"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2544
+msgid "Users will see Maintenance page & logged in Admin will see normal site."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2550
+msgid "Show Logo"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2552
+msgid ""
+"Show/Hide logo on Maintenance. Logo can be uploaded from General > Header in "
+"CS Theme options."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2557
+msgid "Show Newsletter"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2559
+msgid "Show/Hide NewsLetter from maintenance page."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2564
+msgid "Newsletter Text"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2566
+msgid "Add newsletter text here."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2568
+msgid "Weekly Newsletter"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2572
+msgid "Social Icons"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2574
+msgid "On/Off social network from maintenance page."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2579
+msgid "Social Text"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2581
+msgid "Add your social text here."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2586
+msgid "Maintenance Image"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2588
+msgid "Add Maintenance page image in JPG, GIF and PNG format."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2593
+msgid "Maintenance Page Logo"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2595
+msgid "Add your maintenance page logo in JPG, PNG and GIF format."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2600
+msgid "Maintenance Text"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2602
+msgid "Text for Maintenance page. Insert some basic HTML or use shortcodes here."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2604
+msgid "Sorry, We are down for maintenance"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2604
+msgid "We are currently under maintenance, if all goes as planned we will be back in"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2607
+msgid "Launch Date"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2609
+msgid "Set Estimated date for completion of site on Maintenance page."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2616 ../backend/theme-
+#: options/cs_options.php:2618
+msgid "Coming Soon Page"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2625
+msgid "This Content will print on frontend."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2631
+msgid "Api settings"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2639
+msgid "All api settings"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2646 ../backend/theme-
+#: options/cs_options.php:2648
+msgid "Mail Chimp"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2652
+msgid "Mail Chimp Key"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2653
+msgid ""
+"Enter a valid Mail Chimp API key here to get started. Once you've done that, "
+"you can use the Mail Chimp Widget from the Widgets menu. You will need to "
+"have at least Mail Chimp list set up before the using the widget. You can "
+"get your mail chimp activation key"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2654
+msgid ""
+"Get your mailchimp key by <a href='https://login.mailchimp.com/' "
+"target='_blank'>Clicking Here </a>"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2659
+msgid "Mail Chimp List"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2668 ../backend/theme-
+#: options/cs_options.php:2670
+msgid "Flickr API Setting"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2674
+msgid "Flickr key"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2676
+msgid "add your flickr key here."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2680
+msgid "Flickr secret"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2682
+msgid "add your flickr secret key here."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2693
+msgid "Consumer Key"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2695
+msgid "insert your consumer key here."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2699
+msgid "Cache Time Limit"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2701
+msgid "Please enter the time limit in minutes for refresh cache"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2706
+msgid "Number of tweet"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2708
+msgid "Please enter number of tweet that you get from twitter for cache file."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2713
+msgid "Date Time Formate"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2715
+msgid "Select date time formate for every tweet."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2721
+msgid "Displays November 06 2012"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2722
+msgid "Displays 6th November"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2723
+msgid "Displays 06 Nov"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2724
+msgid "Displays 06 Nov 2012"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2725
+msgid "Displays Tues 06 Nov 2012"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2726
+msgid "Displays in hours, minutes etc"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2729
+msgid "Consumer Secret"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2731
+msgid "insert your cunsumer secret key here."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2735
+msgid "Access Token"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2737
+msgid "insert access token here."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2741
+msgid "Access Token Secret"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2743
+msgid "insert access token secret here."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2749
+msgid "Attention for API Settings!"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2755
+msgid "Auto Update"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2762
+msgid "Auto Update Theme"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2767
+msgid "Automatic Upgrade"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2774
+msgid "Marketplace Username"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2776
+msgid "Enter your Marketplace Username."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2780
+msgid "Secret API Key"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2782
+msgid "Enter your Secret API key."
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2786
+msgid "Skip Theme Backup"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2788
+msgid "Do you want to skip theme backup?"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2793
+msgid "Attention User Account Information!"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2805 ../backend/theme-
+#: options/cs_options.php:2812
+msgid "import & export"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2816
+msgid "Backup"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2825 ../backend/theme-
+#: options/cs_options.php:2826
+msgid "Widgets Backup Options"
+msgstr ""
+
+#: ../backend/theme-options/cs_options.php:2830
+msgid "Widgets Backup"
+msgstr ""
+
+#. Name of the theme
+#: ../backend/theme-options/cs_options_array.php:18 ../backend/theme-
+#: options/cs_options_array.php:25
+msgid "JobCareer"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_array.php:19 ../backend/theme-
+#: options/cs_options_array.php:31
+msgid "NextJob"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_array.php:20 ../backend/theme-
+#: options/cs_options_array.php:37
+msgid "JobStack"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_array.php:21 ../backend/theme-
+#: options/cs_options_array.php:43
+msgid "Recruiter"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_array.php:22 ../backend/theme-
+#: options/cs_options_array.php:49
+msgid "JobDoor"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:427
+msgid "Sorry unable to upgrade theme. Contact Theme Author and repot this issue."
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:470
+msgid "Import Options"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:473
+msgid "Input the Url from another location and hit Import Button to apply settings."
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:484 ../backend/theme-
+#: options/cs_options_fields.php:516
+msgid "Import"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:511
+msgid "Export Options"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:514 ../backend/theme-
+#: options/cs_options_fields.php:632
+msgid ""
+"Here you can Generate/Download Backups. Also you can use these Backups to "
+"Restore settings."
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:542 ../backend/theme-
+#: options/cs_options_fields.php:670
+msgid "Download"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:545
+msgid "Restore"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:554 ../backend/theme-
+#: options/cs_options_fields.php:673 ../classes/class_meta_fields.php:972 ..
+#: /classes/class_meta_fields.php:972
+msgid "Delete"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:575
+msgid "Generate Backup"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:614
+msgid "Import Widgets"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:615
+msgid "Put File Url that contains widget settings"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:662
+msgid "Show Widget Settings"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:687
+msgid "Export Widgets"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1153
+msgid "Font Family"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1158
+msgid "Default Font"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1399
+msgid "Please enter the desired title of sidebar"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1412 ../backend/theme-
+#: options/cs_options_fields.php:1641
+msgid "Add Sidebar"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1429 ../backend/theme-
+#: options/cs_options_fields.php:1658
+msgid "Already Added Sidebars"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1436 ../backend/theme-
+#: options/cs_options_fields.php:1665
+msgid "Sider Bar Name"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1437 ../backend/theme-
+#: options/cs_options_fields.php:1667
+msgid "Actions"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1608
+msgid "Please enter the desired title of Footer sidebar"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1627
+msgid "2 Column (16.67%)"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1628
+msgid "3 Column (25%)"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1629
+msgid "4 Column (33.33%)"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1630
+msgid "6 Column (50%)"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1631
+msgid "8 Column (66.66%)"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1632
+msgid "9 Column (75%)"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1633
+msgid "10 Column (83.33%)"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1634
+msgid "12 Column (100%)"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:1666
+msgid "Sider Bar Width"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2147
+msgid "Enter title text for icon"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2161
+msgid "Enter full URL of your social network"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2178
+msgid "Attach your custom icon from media."
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2194
+msgid "Font awsome Icon "
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2195
+msgid "Choose icon from icon picker."
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2206
+msgid "Font Awesome Color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2207
+msgid "Provide a hex color code here (with #) for selected icon."
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2231 ../backend/theme-
+#: options/cs_options_fields.php:2647
+msgid "Add"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2248
+msgid "Already Added Social Icons"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2256
+msgid "Network Name"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2259
+msgid "Actions Icon"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2342
+msgid "Please enter url"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2379
+msgid "Font awsome Icon"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2392
+msgid "Font awesome Color"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2463
+msgid "Banner Title"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2483
+msgid "Select banner style from here."
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2503
+msgid "Select banner type from here."
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2527
+msgid "Select banner image from media."
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2579
+msgid "Add URL of Image."
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2598
+msgid "Select target blank for open add in new tab or self for open in same window."
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2619 ../backend/theme-
+#: options/cs_options_fields.php:2930
+msgid "Adsense Code"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2620
+msgid "Add your adsense code here."
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2665
+msgid "Already Added Banners"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2675
+msgid "Clicks"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2676
+msgid "Shortcode"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2777
+msgid "Please enter Banner Title."
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2795
+msgid "Please select Banner Style."
+msgstr ""
+
+#: ../backend/theme-options/cs_options_fields.php:2814
+msgid "Please select Banner Type."
+msgstr ""
+
+#: ../backend/theme-options/cs_options_functions.php:17
+msgid "All Settings Saved"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_functions.php:56
+msgid "Error saving file!"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_functions.php:58
+msgid "Backup Generated."
+msgstr ""
+
+#: ../backend/theme-options/cs_options_functions.php:97
+#, php-format
+msgid "File '%s' Deleted Successfully"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_functions.php:99
+msgid "Error Deleting file!"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_functions.php:147
+msgid "File Import Successfully"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_functions.php:149 ../backend/theme-
+#: options/cs_options_functions.php:160
+msgid "Error Restoring file!"
+msgstr ""
+
+#: ../backend/theme-options/cs_options_functions.php:158
+#, php-format
+msgid "File '%s' Restore Successfully"
+msgstr ""
+
+#: ../classes/class-envato-api.php:69 ../classes/class-envato-api.php:106 ..
+#: /classes/class-envato-api.php:160
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: ../classes/class-envato-api.php:73
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: ../classes/class-envato-api.php:98
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: ../classes/class-envato-api.php:187
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: ../classes/class-envato-backup.php:426
+msgid "The backup file was not created"
+msgstr ""
+
+#: ../classes/class-envato-backup.php:495
+msgid "The following files are unreadable and could not be backed up: "
+msgstr ""
+
+#: ../classes/class-wp-upgrader.php:22
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: ../classes/class-wp-upgrader.php:26
+msgid "Backing up & removing the old version of the theme&#8230;"
+msgstr ""
+
+#: ../classes/class-wp-upgrader.php:32
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: ../classes/class_meta_fields.php:77 ../classes/class_meta_fields.php:97
+msgid "Label Not defined"
+msgstr ""
+
+#: ../classes/class_meta_fields.php:314
+msgid "Full Width"
+msgstr ""
+
+#: ../classes/class_meta_fields.php:332
+msgid "Sidebar Right"
+msgstr ""
+
+#: ../classes/class_meta_fields.php:350
+msgid "Sidebar Left"
+msgstr ""
+
+#: ../classes/class_meta_fields.php:459
+msgid "Subtitle"
+msgstr ""
+
+#: ../classes/class_meta_fields.php:461
+msgid "Enter Subtitle Here."
+msgstr ""
+
+#: ../classes/class_meta_fields.php:941
+msgid "Delete image"
+msgstr ""
+
+#: ../classes/class_meta_fields.php:941
+msgid "<i class=\"icon-times\"></i>"
+msgstr ""
+
+#: ../classes/cs_global_functions.php:44 ../frontend/shortcodes/cs_contactus.php:
+#: 228
+msgid "Submit Now"
+msgstr ""
+
+#. Base ID
+#: ../classes/widgets/class-fancy-menu.php:20
+msgid "CS : Fancy Menu"
+msgstr ""
+
+#: ../classes/widgets/class-fancy-menu.php:21
+msgid "Fancy Menu"
+msgstr ""
+
+#: ../classes/widgets/class-fancy-menu.php:38
+msgid "No Menu exists. "
+msgstr ""
+
+#: ../classes/widgets/class-fancy-menu.php:62
+msgid "Select Menu"
+msgstr ""
+
+#: ../classes/widgets/class-wp-nav-menu-widget-chimp.php:27
+msgid "Add a custom menu to your sidebar."
+msgstr ""
+
+#: ../classes/widgets/class-wp-nav-menu-widget-chimp.php:30
+msgid "CS: Custom Menu"
+msgstr ""
+
+#: ../classes/widgets/class-wp-nav-menu-widget-chimp.php:134
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: ../classes/widgets/class-wp-nav-menu-widget-chimp.php:169
+msgid "Select Menu:"
+msgstr ""
+
+#. Base ID
+#: ../classes/widgets/class_ads_banner.php:20
+msgid "CS : Ads Banners"
+msgstr ""
+
+#: ../classes/widgets/class_ads_banner.php:21
+msgid "Set Banners option in widget"
+msgstr ""
+
+#: ../classes/widgets/class_ads_banner.php:41 ../classes/widgets/class_flickr.php:
+#: 47
+msgid "Enter your title here."
+msgstr ""
+
+#: ../classes/widgets/class_ads_banner.php:52
+msgid "Banner View"
+msgstr ""
+
+#: ../classes/widgets/class_ads_banner.php:62
+msgid "Single Banner"
+msgstr ""
+
+#: ../classes/widgets/class_ads_banner.php:63
+msgid "Random Banners"
+msgstr ""
+
+#: ../classes/widgets/class_ads_banner.php:82
+msgid "Banner Code"
+msgstr ""
+
+#: ../classes/widgets/class_ads_banner.php:121
+msgid "Number of Banners"
+msgstr ""
+
+#: ../classes/widgets/class_ads_banner.php:125
+msgid "Set maximum number of Banners upto 10"
+msgstr ""
+
+#. Base ID
+#: ../classes/widgets/class_facebook.php:24
+msgid "CS : Facebook"
+msgstr ""
+
+#: ../classes/widgets/class_facebook.php:25
+msgid "Facebook widget like box total customized with theme."
+msgstr ""
+
+#: ../classes/widgets/class_facebook.php:56
+msgid "Page Url"
+msgstr ""
+
+#: ../classes/widgets/class_facebook.php:59
+msgid "Please enter your page or User profile url example:L"
+msgstr ""
+
+#: ../classes/widgets/class_facebook.php:76
+msgid "width"
+msgstr ""
+
+#: ../classes/widgets/class_facebook.php:82
+msgid "Like Box Height"
+msgstr ""
+
+#: ../classes/widgets/class_facebook.php:88
+msgid "Hide Cover"
+msgstr ""
+
+#: ../classes/widgets/class_facebook.php:98
+msgid "Show Faces"
+msgstr ""
+
+#: ../classes/widgets/class_facebook.php:109
+msgid "Show Posts"
+msgstr ""
+
+#: ../classes/widgets/class_facebook.php:118
+msgid "Hide Cta"
+msgstr ""
+
+#: ../classes/widgets/class_facebook.php:128
+msgid "Small Header"
+msgstr ""
+
+#: ../classes/widgets/class_facebook.php:138
+msgid "Adapt width"
+msgstr ""
+
+#. Base ID
+#: ../classes/widgets/class_flickr.php:27
+msgid "CS : Flickr Gallery"
+msgstr ""
+
+#: ../classes/widgets/class_flickr.php:28
+msgid "Type a user name to show photos in widget"
+msgstr ""
+
+#: ../classes/widgets/class_flickr.php:60
+msgid "Flickr username"
+msgstr ""
+
+#: ../classes/widgets/class_flickr.php:62
+msgid "Enter your Flicker Username here."
+msgstr ""
+
+#: ../classes/widgets/class_flickr.php:75
+msgid "Number of Photos"
+msgstr ""
+
+#: ../classes/widgets/class_flickr.php:190 ../classes/widgets/class_flickr.php:215
+msgid "No result found."
+msgstr ""
+
+#: ../classes/widgets/class_flickr.php:193 ../classes/widgets/class_flickr.php:196
+msgid "Error:"
+msgstr ""
+
+#: ../classes/widgets/class_flickr.php:219
+msgid "Please Enter Flickr API key from Theme Options."
+msgstr ""
+
+#. Base ID
+#: ../classes/widgets/class_mailchimp.php:26
+msgid "CS: Mail Chimp"
+msgstr ""
+
+#: ../classes/widgets/class_mailchimp.php:27
+msgid "Mail Chimp Newsletter Widget"
+msgstr ""
+
+#: ../classes/widgets/class_mailchimp.php:59 ../classes/widgets/class_recentposts.
+#: php:56
+msgid "Select view"
+msgstr ""
+
+#: ../classes/widgets/class_mailchimp.php:71
+msgid "career"
+msgstr ""
+
+#: ../classes/widgets/class_mailchimp.php:149 ../classes/widgets/class_mailchimp.
+#: php:152 ../classes/widgets/class_mailchimp.php:152 ..
+#: /frontend/shortcodes/cs_contactus.php:127
+msgid "Enter your email address"
+msgstr ""
+
+#. Base ID
+#: ../classes/widgets/class_opening_hours.php:27
+msgid "CS : Opening Hours"
+msgstr ""
+
+#: ../classes/widgets/class_opening_hours.php:28
+msgid "Footer Opening Hours Information"
+msgstr ""
+
+#: ../classes/widgets/class_opening_hours.php:78
+msgid "Monday"
+msgstr ""
+
+#: ../classes/widgets/class_opening_hours.php:98
+msgid "Monday time"
+msgstr ""
+
+#: ../classes/widgets/class_opening_hours.php:115
+msgid "Tuesday"
+msgstr ""
+
+#: ../classes/widgets/class_opening_hours.php:132
+msgid "Tuesday time"
+msgstr ""
+
+#: ../classes/widgets/class_opening_hours.php:149
+msgid "Wednesday"
+msgstr ""
+
+#: ../classes/widgets/class_opening_hours.php:168
+msgid "Wednesday time"
+msgstr ""
+
+#: ../classes/widgets/class_opening_hours.php:187
+msgid "Thursday"
+msgstr ""
+
+#: ../classes/widgets/class_opening_hours.php:205
+msgid "Thursday time"
+msgstr ""
+
+#: ../classes/widgets/class_opening_hours.php:223
+msgid "Friday"
+msgstr ""
+
+#: ../classes/widgets/class_opening_hours.php:240
+msgid "Friday time"
+msgstr ""
+
+#: ../classes/widgets/class_opening_hours.php:259
+msgid "Saturday"
+msgstr ""
+
+#: ../classes/widgets/class_opening_hours.php:279
+msgid "Saturday time"
+msgstr ""
+
+#: ../classes/widgets/class_opening_hours.php:298
+msgid "Sunday"
+msgstr ""
+
+#: ../classes/widgets/class_opening_hours.php:317
+msgid "Sunday time"
+msgstr ""
+
+#. Base ID
+#: ../classes/widgets/class_promotions.php:25
+msgid "CS : Promotions"
+msgstr ""
+
+#: ../classes/widgets/class_promotions.php:26
+msgid "Promotions"
+msgstr ""
+
+#: ../classes/widgets/class_promotions.php:81
+msgid "Description"
+msgstr ""
+
+#: ../classes/widgets/class_promotions.php:97
+msgid "Button Title"
+msgstr ""
+
+#: ../classes/widgets/class_promotions.php:113
+msgid "Button URL"
+msgstr ""
+
+#. Base ID
+#: ../classes/widgets/class_recentposts.php:19
+msgid "CS : Recent Posts"
+msgstr ""
+
+#: ../classes/widgets/class_recentposts.php:20
+msgid "Recent Posts from category."
+msgstr ""
+
+#: ../classes/widgets/class_recentposts.php:78 ../templates/blog/blog_element.php:
+#: 81
+msgid "Choose Category"
+msgstr ""
+
+#: ../classes/widgets/class_recentposts.php:96
+msgid "Number of Posts To Display"
+msgstr ""
+
+#. Base ID
+#: ../classes/widgets/class_twitter_widget.php:21
+msgid "CS: Twitter Widget"
+msgstr ""
+
+#: ../classes/widgets/class_twitter_widget.php:22
+msgid "Twitter Widget."
+msgstr ""
+
+#: ../classes/widgets/class_twitter_widget.php:51
+msgid "User Name"
+msgstr ""
+
+#: ../classes/widgets/class_twitter_widget.php:66
+msgid "Num of Tweets"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_clients.php:16
+msgid "Grid View"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_contactus.php:36 ..
+#: /frontend/shortcodes/cs_quick_quote.php:28
+msgid "Email has been sent Successfully"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_contactus.php:41 ..
+#: /frontend/shortcodes/cs_quick_quote.php:33
+msgid "An error Occured, please try again later"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_contactus.php:95
+msgid "Please ensure that all required fields are completed and formatted correctly"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_contactus.php:99
+msgid "Your Name"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_contactus.php:117
+msgid "Email Address"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_contactus.php:135 ..
+#: /frontend/shortcodes/cs_contactus.php:143
+msgid "Subject"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_quick_quote.php:104
+msgid "Enter name"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_quick_quote.php:114
+msgid "Enter Email"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_quick_quote.php:124
+msgid "Enter Number"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_quick_quote.php:134
+msgid "Enter Message"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_services.php:15
+msgid ""
+"'Services' element has been deprecated but introducing new element 'Info "
+"Box' with extra features"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_sitemap.php:70
+msgid "Posts"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_sitemap.php:92
+msgid "Categories"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_sitemap.php:113
+msgid "jobcareer"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_sitemap.php:137
+msgid "Specialisms"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_slider.php:108
+msgid "Get Directions"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_team.php:140
+msgid "Send Email"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_tweets.php:126
+#, php-format
+msgid "%d seconds ago"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_tweets.php:129
+#, php-format
+msgid "About a Minute Ago"
+msgid_plural "%d Minutes Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../frontend/shortcodes/cs_tweets.php:132 ../frontend/shortcodes/cs_tweets.php:
+#: 135
+#, php-format
+msgid "About an Hour Ago"
+msgid_plural "%d Hours Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../frontend/shortcodes/cs_tweets.php:138
+#, php-format
+msgid "About a Day Ago"
+msgid_plural "%d Days Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../frontend/shortcodes/cs_tweets.php:141
+#, php-format
+msgid "About a Week Ago"
+msgid_plural "%d Weeks Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../frontend/shortcodes/cs_tweets.php:144
+#, php-format
+msgid "About a Month Ago"
+msgid_plural "%d Months Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../frontend/shortcodes/cs_tweets.php:147
+#, php-format
+msgid "About a year Ago"
+msgid_plural "%d years Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../frontend/shortcodes/cs_tweets.php:166
+msgid "Please enter valid Twitter API Keys"
+msgstr ""
+
+#: ../frontend/shortcodes/cs_tweets.php:168 ../frontend/shortcodes/cs_tweets.php:
+#: 172
+msgid "No Tweets Found"
+msgstr ""
+
+#: ../frontend/templates/footers/classic.php:102 ..
+#: /frontend/templates/footers/fancy.php:115 ../frontend/templates/footers/modern.
+#: php:118
+msgid "Jobs Wordpress Theme All rights reserved. Design by"
+msgstr ""
+
+#: ../frontend/templates/footers/fancy.php:68
+msgid "Follow us"
+msgstr ""
+
+#: ../frontend/templates/headers/modern.php:86
+msgid "Search here"
+msgstr ""
+
+#: ../frontend/templates/headers/modern.php:196
+msgid "left Menu"
+msgstr ""
+
+#: ../frontend/templates/headers/modern.php:205
+msgid "Bottom Menu"
+msgstr ""
+
+#: ../templates/blog/blog_element.php:55
+msgid "BLOG OPTIONS"
+msgstr ""
+
+#: ../templates/blog/blog_element.php:67
+msgid "Enter your blog element title here."
+msgstr ""
+
+#: ../templates/blog/blog_element.php:83
+msgid ""
+"Select category to show posts. If you dont select category it will display "
+"all posts."
+msgstr ""
+
+#: ../templates/blog/blog_element.php:97
+msgid "Blog Views"
+msgstr ""
+
+#: ../templates/blog/blog_element.php:99
+msgid "Select blog view from this drop down"
+msgstr ""
+
+#: ../templates/blog/blog_element.php:109
+msgid "Grid"
+msgstr ""
+
+#: ../templates/blog/blog_element.php:128
+msgid "Columns Size"
+msgstr ""
+
+#: ../templates/blog/blog_element.php:151
+msgid "Post Order by Date"
+msgstr ""
+
+#: ../templates/blog/blog_element.php:153
+msgid "Sorting posts in ascending order and descending order with this dropdown."
+msgstr ""
+
+#: ../templates/blog/blog_element.php:161
+msgid "ASC"
+msgstr ""
+
+#: ../templates/blog/blog_element.php:162
+msgid "DESC"
+msgstr ""
+
+#: ../templates/blog/blog_element.php:170
+msgid "Enable Post Description"
+msgstr ""
+
+#: ../templates/blog/blog_element.php:172
+msgid "Show/Hide post description with this dropdown."
+msgstr ""
+
+#: ../templates/blog/blog_element.php:190
+msgid "Length of Excerpt in Words"
+msgstr ""
+
+#: ../templates/blog/blog_element.php:192
+msgid "Add number of excerpt words here for display on blog listing."
+msgstr ""
+
+#: ../templates/blog/blog_element.php:206
+msgid "No. of Post Per Page"
+msgstr ""
+
+#: ../templates/blog/blog_element.php:208
+msgid "Add number of post for show posts on page."
+msgstr ""
+
+#: ../templates/blog/blog_element.php:222
+msgid "Pagination"
+msgstr ""
+
+#: ../templates/blog/blog_element.php:224
+msgid ""
+"Pagination is the process of dividing a document into discrete pages. Manage "
+"your pagination via this dropdown."
+msgstr ""
+
+#: ../templates/blog/blog_element.php:233
+msgid "Single Page"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:27
+#, php-format
+msgid "You have received an order from %s. The order is as follows:"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://www.chimpstudio.co.uk"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"JobCareer is an automatic system to managing job lists, job applications and "
+"employers From posting job details to accepting resumes and applicant "
+"tracking and all the way through the interview process, JobCareer supports "
+"all the features you need to manage your organization's hiring process."
+msgstr ""
+
+#. Author of the theme
+msgid "ChimpStudio"
+msgstr ""
